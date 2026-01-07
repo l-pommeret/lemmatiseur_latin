@@ -1,0 +1,3547 @@
+# sent_id = silver_cicero_1
+# text = 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 [1 ] I . Quo usque tandem abutere , Catilina , patientia nostra ?
+1	1	1	_	_	_	_	_	_	_
+2	2	2	_	_	_	_	_	_	_
+3	3	3	_	_	_	_	_	_	_
+4	4	4	_	_	_	_	_	_	_
+5	5	5	_	_	_	_	_	_	_
+6	6	6	_	_	_	_	_	_	_
+7	7	7	_	_	_	_	_	_	_
+8	8	8	_	_	_	_	_	_	_
+9	9	9	_	_	_	_	_	_	_
+10	10	10	_	_	_	_	_	_	_
+11	11	11	_	_	_	_	_	_	_
+12	12	12	_	_	_	_	_	_	_
+13	13	13	_	_	_	_	_	_	_
+14	14	14	_	_	_	_	_	_	_
+15	15	15	_	_	_	_	_	_	_
+16	16	16	_	_	_	_	_	_	_
+17	17	17	_	_	_	_	_	_	_
+18	18	18	_	_	_	_	_	_	_
+19	19	19	_	_	_	_	_	_	_
+20	20	20	_	_	_	_	_	_	_
+21	21	21	_	_	_	_	_	_	_
+22	22	22	_	_	_	_	_	_	_
+23	23	23	_	_	_	_	_	_	_
+24	24	24	_	_	_	_	_	_	_
+25	25	25	_	_	_	_	_	_	_
+26	26	26	_	_	_	_	_	_	_
+27	27	27	_	_	_	_	_	_	_
+28	28	28	_	_	_	_	_	_	_
+29	29	29	_	_	_	_	_	_	_
+30	30	30	_	_	_	_	_	_	_
+31	31	31	_	_	_	_	_	_	_
+32	32	32	_	_	_	_	_	_	_
+33	33	33	_	_	_	_	_	_	_
+34	[1	[1	_	_	_	_	_	_	_
+35	]	]	_	_	_	_	_	_	_
+36	I	I	_	_	_	_	_	_	_
+37	.	.	_	_	_	_	_	_	_
+38	Quo	quo	_	_	_	_	_	_	_
+39	usque	usque	_	_	_	_	_	_	_
+40	tandem	tandem	_	_	_	_	_	_	_
+41	abutere	abutor	_	_	_	_	_	_	_
+42	,	,	_	_	_	_	_	_	_
+43	Catilina	Catilina	_	_	_	_	_	_	_
+44	,	,	_	_	_	_	_	_	_
+45	patientia	patientia	_	_	_	_	_	_	_
+46	nostra	noster	_	_	_	_	_	_	_
+47	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_2
+# text = quam diu etiam furor iste tuus nos eludet ?
+1	quam	quam	_	_	_	_	_	_	_
+2	diu	diu	_	_	_	_	_	_	_
+3	etiam	etiam	_	_	_	_	_	_	_
+4	furor	furor	_	_	_	_	_	_	_
+5	iste	iste	_	_	_	_	_	_	_
+6	tuus	tuus	_	_	_	_	_	_	_
+7	nos	nos	_	_	_	_	_	_	_
+8	eludet	eludo	_	_	_	_	_	_	_
+9	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_3
+# text = quem ad finem sese effrenata iactabit audacia ?
+1	quem	qui	_	_	_	_	_	_	_
+2	ad	ad	_	_	_	_	_	_	_
+3	finem	finis	_	_	_	_	_	_	_
+4	sese	sui	_	_	_	_	_	_	_
+5	effrenata	effrenatus	_	_	_	_	_	_	_
+6	iactabit	iacto	_	_	_	_	_	_	_
+7	audacia	audacia	_	_	_	_	_	_	_
+8	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_4
+# text = Nihilne te nocturnum praesidium Palati , nihil urbis vigiliae , nihil timor populi , nihil concursus bonorum omnium , nihil hic munitissimus habendi senatus locus , nihil horum ora voltusque moverunt ?
+1	Nihilne	nihil	_	_	_	_	_	_	_
+2	te	tu	_	_	_	_	_	_	_
+3	nocturnum	nocturnus	_	_	_	_	_	_	_
+4	praesidium	praesidium	_	_	_	_	_	_	_
+5	Palati	Palatium	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	nihil	nihil	_	_	_	_	_	_	_
+8	urbis	urbs	_	_	_	_	_	_	_
+9	vigiliae	vigilia	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	nihil	nihil	_	_	_	_	_	_	_
+12	timor	timor	_	_	_	_	_	_	_
+13	populi	populus	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	nihil	nihil	_	_	_	_	_	_	_
+16	concursus	concursus	_	_	_	_	_	_	_
+17	bonorum	bonus	_	_	_	_	_	_	_
+18	omnium	omnis	_	_	_	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	nihil	nihil	_	_	_	_	_	_	_
+21	hic	hic	_	_	_	_	_	_	_
+22	munitissimus	munitus	_	_	_	_	_	_	_
+23	habendi	habeo	_	_	_	_	_	_	_
+24	senatus	senatus	_	_	_	_	_	_	_
+25	locus	locus	_	_	_	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	nihil	nihil	_	_	_	_	_	_	_
+28	horum	hic	_	_	_	_	_	_	_
+29	ora	os	_	_	_	_	_	_	_
+30	voltusque	vultus	_	_	_	_	_	_	_
+31	moverunt	moveo	_	_	_	_	_	_	_
+32	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_5
+# text = Patere tua consilia non sentis , constrictam iam horum omnium scientia teneri coniurationem tuam non vides ?
+1	Patere	pateo	_	_	_	_	_	_	_
+2	tua	tuus	_	_	_	_	_	_	_
+3	consilia	consilium	_	_	_	_	_	_	_
+4	non	non	_	_	_	_	_	_	_
+5	sentis	sentio	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	constrictam	constringo	_	_	_	_	_	_	_
+8	iam	iam	_	_	_	_	_	_	_
+9	horum	hic	_	_	_	_	_	_	_
+10	omnium	omnis	_	_	_	_	_	_	_
+11	scientia	scientia	_	_	_	_	_	_	_
+12	teneri	teneo	_	_	_	_	_	_	_
+13	coniurationem	coniuratio	_	_	_	_	_	_	_
+14	tuam	tuus	_	_	_	_	_	_	_
+15	non	non	_	_	_	_	_	_	_
+16	vides	video	_	_	_	_	_	_	_
+17	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_6
+# text = Quid proxima , quid superiore nocte egeris , ubi fueris , quos convocaveris , quid consilii ceperis , quem nostrum ignorare arbitraris ?
+1	Quid	quis	_	_	_	_	_	_	_
+2	proxima	proximus	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	quid	quis	_	_	_	_	_	_	_
+5	superiore	superior	_	_	_	_	_	_	_
+6	nocte	nox	_	_	_	_	_	_	_
+7	egeris	ago	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ubi	ubi	_	_	_	_	_	_	_
+10	fueris	sum	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	quos	qui	_	_	_	_	_	_	_
+13	convocaveris	convoco	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	quid	quis	_	_	_	_	_	_	_
+16	consilii	consilium	_	_	_	_	_	_	_
+17	ceperis	capio	_	_	_	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	quem	quis	_	_	_	_	_	_	_
+20	nostrum	nos	_	_	_	_	_	_	_
+21	ignorare	ignoro	_	_	_	_	_	_	_
+22	arbitraris	arbitror	_	_	_	_	_	_	_
+23	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_7
+# text = [2 ] O tempora , o mores ! Senatus haec intellegit .
+1	[2	[2	_	_	_	_	_	_	_
+2	]	]	_	_	_	_	_	_	_
+3	O	o	_	_	_	_	_	_	_
+4	tempora	tempus	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	o	o	_	_	_	_	_	_	_
+7	mores	mos	_	_	_	_	_	_	_
+8	!	!	_	_	_	_	_	_	_
+9	Senatus	senatus	_	_	_	_	_	_	_
+10	haec	hic	_	_	_	_	_	_	_
+11	intellegit	intellego	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_8
+# text = Consul videt ;
+1	Consul	consul	_	_	_	_	_	_	_
+2	videt	video	_	_	_	_	_	_	_
+3	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_9
+# text = hic tamen vivit.
+1	hic	hic	_	_	_	_	_	_	_
+2	tamen	tamen	_	_	_	_	_	_	_
+3	vivit.	vivo	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_10
+# text = Vivit ?
+1	Vivit	vivo	_	_	_	_	_	_	_
+2	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_11
+# text = immo vero etiam in senatum venit , fit publici consilii particeps , notat et designat oculis ad caedem unum quemque nostrum .
+1	immo	immo	_	_	_	_	_	_	_
+2	vero	vero	_	_	_	_	_	_	_
+3	etiam	etiam	_	_	_	_	_	_	_
+4	in	in	_	_	_	_	_	_	_
+5	senatum	senatus	_	_	_	_	_	_	_
+6	venit	venio	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	fit	fio	_	_	_	_	_	_	_
+9	publici	publicus	_	_	_	_	_	_	_
+10	consilii	consilium	_	_	_	_	_	_	_
+11	particeps	particeps	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	notat	noto	_	_	_	_	_	_	_
+14	et	et	_	_	_	_	_	_	_
+15	designat	designo	_	_	_	_	_	_	_
+16	oculis	oculus	_	_	_	_	_	_	_
+17	ad	ad	_	_	_	_	_	_	_
+18	caedem	caedes	_	_	_	_	_	_	_
+19	unum	unus	_	_	_	_	_	_	_
+20	quemque	quisque	_	_	_	_	_	_	_
+21	nostrum	nos	_	_	_	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_12
+# text = Nos autem fortes viri satis facere rei publicae videmur , si istius furorem ac tela vitemus .
+1	Nos	nos	_	_	_	_	_	_	_
+2	autem	autem	_	_	_	_	_	_	_
+3	fortes	fortis	_	_	_	_	_	_	_
+4	viri	vir	_	_	_	_	_	_	_
+5	satis	satis	_	_	_	_	_	_	_
+6	facere	facio	_	_	_	_	_	_	_
+7	rei	res	_	_	_	_	_	_	_
+8	publicae	publicus	_	_	_	_	_	_	_
+9	videmur	video	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	si	si	_	_	_	_	_	_	_
+12	istius	iste	_	_	_	_	_	_	_
+13	furorem	furor	_	_	_	_	_	_	_
+14	ac	ac	_	_	_	_	_	_	_
+15	tela	telum	_	_	_	_	_	_	_
+16	vitemus	vito	_	_	_	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_13
+# text = Ad mortem te , Catilina , duci iussu consulis iam pridem oportebat , in te conferri pestem , quam tu in nos [omnes iam diu] machinaris .
+1	Ad	ad	_	_	_	_	_	_	_
+2	mortem	mors	_	_	_	_	_	_	_
+3	te	tu	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	Catilina	Catilina	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	duci	duco	_	_	_	_	_	_	_
+8	iussu	iussus	_	_	_	_	_	_	_
+9	consulis	consul	_	_	_	_	_	_	_
+10	iam	iam	_	_	_	_	_	_	_
+11	pridem	pridem	_	_	_	_	_	_	_
+12	oportebat	oportet	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	in	in	_	_	_	_	_	_	_
+15	te	tu	_	_	_	_	_	_	_
+16	conferri	confero	_	_	_	_	_	_	_
+17	pestem	pestis	_	_	_	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	quam	qui	_	_	_	_	_	_	_
+20	tu	tu	_	_	_	_	_	_	_
+21	in	in	_	_	_	_	_	_	_
+22	nos	nos	_	_	_	_	_	_	_
+23	[omnes	[omnis	_	_	_	_	_	_	_
+24	iam	iam	_	_	_	_	_	_	_
+25	diu]	diu]	_	_	_	_	_	_	_
+26	machinaris	machinor	_	_	_	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_14
+# text = [3 ] An vero vir amplissumus , P. Scipio , pontifex maximus , Ti .
+1	[3	[3	_	_	_	_	_	_	_
+2	]	]	_	_	_	_	_	_	_
+3	An	an	_	_	_	_	_	_	_
+4	vero	vero	_	_	_	_	_	_	_
+5	vir	vir	_	_	_	_	_	_	_
+6	amplissumus	amplus	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	P.	P.	_	_	_	_	_	_	_
+9	Scipio	Scipio	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	pontifex	pontifex	_	_	_	_	_	_	_
+12	maximus	magnus	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	Ti	Ti	_	_	_	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_15
+# text = Gracchum mediocriter labefactantem statum rei publicae privatus interfecit ;
+1	Gracchum	Gracchus	_	_	_	_	_	_	_
+2	mediocriter	mediocriter	_	_	_	_	_	_	_
+3	labefactantem	labefacto	_	_	_	_	_	_	_
+4	statum	status	_	_	_	_	_	_	_
+5	rei	res	_	_	_	_	_	_	_
+6	publicae	publicus	_	_	_	_	_	_	_
+7	privatus	privatus	_	_	_	_	_	_	_
+8	interfecit	interficio	_	_	_	_	_	_	_
+9	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_16
+# text = Catilinam orbem terrae caede atque incendiis vastare cupientem nos consules perferemus ?
+1	Catilinam	Catilina	_	_	_	_	_	_	_
+2	orbem	orbis	_	_	_	_	_	_	_
+3	terrae	terra	_	_	_	_	_	_	_
+4	caede	caedes	_	_	_	_	_	_	_
+5	atque	atque	_	_	_	_	_	_	_
+6	incendiis	incendium	_	_	_	_	_	_	_
+7	vastare	vasto	_	_	_	_	_	_	_
+8	cupientem	cupio	_	_	_	_	_	_	_
+9	nos	nos	_	_	_	_	_	_	_
+10	consules	consul	_	_	_	_	_	_	_
+11	perferemus	perfero	_	_	_	_	_	_	_
+12	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_17
+# text = Nam illa nimis antiqua praetereo , quod C. Servilius Ahala Sp. Maelium novis rebus studentem manu sua occidit .
+1	Nam	nam	_	_	_	_	_	_	_
+2	illa	ille	_	_	_	_	_	_	_
+3	nimis	nimis	_	_	_	_	_	_	_
+4	antiqua	antiquus	_	_	_	_	_	_	_
+5	praetereo	praetereo	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	quod	quod	_	_	_	_	_	_	_
+8	C.	C.	_	_	_	_	_	_	_
+9	Servilius	Servilius	_	_	_	_	_	_	_
+10	Ahala	Ahala	_	_	_	_	_	_	_
+11	Sp.	Sp.	_	_	_	_	_	_	_
+12	Maelium	Maelius	_	_	_	_	_	_	_
+13	novis	novus	_	_	_	_	_	_	_
+14	rebus	res	_	_	_	_	_	_	_
+15	studentem	studeo	_	_	_	_	_	_	_
+16	manu	manus	_	_	_	_	_	_	_
+17	sua	suus	_	_	_	_	_	_	_
+18	occidit	occido	_	_	_	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_18
+# text = Fuit , fuit ista quondam in hac re publica virtus , ut viri fortes acrioribus suppliciis civem perniciosum quam acerbissimum hostem coercerent .
+1	Fuit	sum	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	fuit	sum	_	_	_	_	_	_	_
+4	ista	iste	_	_	_	_	_	_	_
+5	quondam	quondam	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	hac	hic	_	_	_	_	_	_	_
+8	re	res	_	_	_	_	_	_	_
+9	publica	publicus	_	_	_	_	_	_	_
+10	virtus	virtus	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	ut	ut	_	_	_	_	_	_	_
+13	viri	vir	_	_	_	_	_	_	_
+14	fortes	fortis	_	_	_	_	_	_	_
+15	acrioribus	acer	_	_	_	_	_	_	_
+16	suppliciis	supplicium	_	_	_	_	_	_	_
+17	civem	civis	_	_	_	_	_	_	_
+18	perniciosum	perniciosus	_	_	_	_	_	_	_
+19	quam	quam	_	_	_	_	_	_	_
+20	acerbissimum	acerbus	_	_	_	_	_	_	_
+21	hostem	hostis	_	_	_	_	_	_	_
+22	coercerent	coerceo	_	_	_	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_19
+# text = Habemus senatus consultum in te , Catilina , vehemens et grave , non deest rei publicae consilium neque auctoritas huius ordinis ;
+1	Habemus	habeo	_	_	_	_	_	_	_
+2	senatus	senatus	_	_	_	_	_	_	_
+3	consultum	consultum	_	_	_	_	_	_	_
+4	in	in	_	_	_	_	_	_	_
+5	te	tu	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Catilina	Catilina	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	vehemens	vehemens	_	_	_	_	_	_	_
+10	et	et	_	_	_	_	_	_	_
+11	grave	gravis	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	non	non	_	_	_	_	_	_	_
+14	deest	desum	_	_	_	_	_	_	_
+15	rei	res	_	_	_	_	_	_	_
+16	publicae	publicus	_	_	_	_	_	_	_
+17	consilium	consilium	_	_	_	_	_	_	_
+18	neque	neque	_	_	_	_	_	_	_
+19	auctoritas	auctoritas	_	_	_	_	_	_	_
+20	huius	hic	_	_	_	_	_	_	_
+21	ordinis	ordo	_	_	_	_	_	_	_
+22	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_20
+# text = nos , nos , dico aperte , consules desumus .
+1	nos	nos	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	nos	nos	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	dico	dico	_	_	_	_	_	_	_
+6	aperte	aperte	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	consules	consul	_	_	_	_	_	_	_
+9	desumus	desum	_	_	_	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_21
+# text = [4 ] II . Decrevit quondam senatus , ut L. Opimius consul videret , ne quid res publica detrimenti caperet ;
+1	[4	[4	_	_	_	_	_	_	_
+2	]	]	_	_	_	_	_	_	_
+3	II	ii	_	_	_	_	_	_	_
+4	.	.	_	_	_	_	_	_	_
+5	Decrevit	decerno	_	_	_	_	_	_	_
+6	quondam	quondam	_	_	_	_	_	_	_
+7	senatus	senatus	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ut	ut	_	_	_	_	_	_	_
+10	L.	L.	_	_	_	_	_	_	_
+11	Opimius	Opimius	_	_	_	_	_	_	_
+12	consul	consul	_	_	_	_	_	_	_
+13	videret	video	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	ne	ne	_	_	_	_	_	_	_
+16	quid	quis	_	_	_	_	_	_	_
+17	res	res	_	_	_	_	_	_	_
+18	publica	publicus	_	_	_	_	_	_	_
+19	detrimenti	detrimentum	_	_	_	_	_	_	_
+20	caperet	capio	_	_	_	_	_	_	_
+21	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_22
+# text = nox nulla intercessit ;
+1	nox	nox	_	_	_	_	_	_	_
+2	nulla	nullus	_	_	_	_	_	_	_
+3	intercessit	intercedo	_	_	_	_	_	_	_
+4	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_23
+# text = interfectus est propter quasdam seditionum suspiciones C.
+1	interfectus	interficio	_	_	_	_	_	_	_
+2	est	sum	_	_	_	_	_	_	_
+3	propter	propter	_	_	_	_	_	_	_
+4	quasdam	quidam	_	_	_	_	_	_	_
+5	seditionum	seditio	_	_	_	_	_	_	_
+6	suspiciones	suspicio	_	_	_	_	_	_	_
+7	C.	C.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_24
+# text = Gracchus , clarissimo patre , avo , maioribus , occisus est cum liberis M.
+1	Gracchus	Gracchus	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	clarissimo	clarus	_	_	_	_	_	_	_
+4	patre	pater	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	avo	avus	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	maioribus	maiores	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	occisus	occido	_	_	_	_	_	_	_
+11	est	sum	_	_	_	_	_	_	_
+12	cum	cum	_	_	_	_	_	_	_
+13	liberis	liberi	_	_	_	_	_	_	_
+14	M.	M.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_25
+# text = Fulvius consularis .
+1	Fulvius	Fulvius	_	_	_	_	_	_	_
+2	consularis	consularis	_	_	_	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_26
+# text = Simili senatus consulto C.
+1	Simili	similis	_	_	_	_	_	_	_
+2	senatus	senatus	_	_	_	_	_	_	_
+3	consulto	consultum	_	_	_	_	_	_	_
+4	C.	C.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_27
+# text = Mario et L.
+1	Mario	Marius	_	_	_	_	_	_	_
+2	et	et	_	_	_	_	_	_	_
+3	L.	L.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_28
+# text = Valerio consulibus est permissa res publica ;
+1	Valerio	Valerius	_	_	_	_	_	_	_
+2	consulibus	consul	_	_	_	_	_	_	_
+3	est	sum	_	_	_	_	_	_	_
+4	permissa	permitto	_	_	_	_	_	_	_
+5	res	res	_	_	_	_	_	_	_
+6	publica	publicus	_	_	_	_	_	_	_
+7	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_29
+# text = num unum diem postea L. Saturninum tribunum pl. et C.
+1	num	num	_	_	_	_	_	_	_
+2	unum	unus	_	_	_	_	_	_	_
+3	diem	dies	_	_	_	_	_	_	_
+4	postea	postea	_	_	_	_	_	_	_
+5	L.	L.	_	_	_	_	_	_	_
+6	Saturninum	Saturninus	_	_	_	_	_	_	_
+7	tribunum	tribunus	_	_	_	_	_	_	_
+8	pl.	plebs	_	_	_	_	_	_	_
+9	et	et	_	_	_	_	_	_	_
+10	C.	C.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_30
+# text = Servilium praetorem mors ac rei publicae poena remorata est ?
+1	Servilium	Servilius	_	_	_	_	_	_	_
+2	praetorem	praetor	_	_	_	_	_	_	_
+3	mors	mors	_	_	_	_	_	_	_
+4	ac	ac	_	_	_	_	_	_	_
+5	rei	res	_	_	_	_	_	_	_
+6	publicae	publicus	_	_	_	_	_	_	_
+7	poena	poena	_	_	_	_	_	_	_
+8	remorata	remoror	_	_	_	_	_	_	_
+9	est	sum	_	_	_	_	_	_	_
+10	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_31
+# text = At [ vero ] nos vicesimum iam diem patimur hebescere aciem horum auctoritatis .
+1	At	at	_	_	_	_	_	_	_
+2	[	[	_	_	_	_	_	_	_
+3	vero	vero	_	_	_	_	_	_	_
+4	]	]	_	_	_	_	_	_	_
+5	nos	nos	_	_	_	_	_	_	_
+6	vicesimum	vicesimus	_	_	_	_	_	_	_
+7	iam	iam	_	_	_	_	_	_	_
+8	diem	dies	_	_	_	_	_	_	_
+9	patimur	patior	_	_	_	_	_	_	_
+10	hebescere	hebesco	_	_	_	_	_	_	_
+11	aciem	acies	_	_	_	_	_	_	_
+12	horum	hic	_	_	_	_	_	_	_
+13	auctoritatis	auctoritas	_	_	_	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_32
+# text = Habemus enim huiusce modi senatus consultum , verum inclusum in tabulis tamquam in vagina reconditum , quo ex senatus consulto confestim te interfectum esse , Catilina , convenit .
+1	Habemus	habeo	_	_	_	_	_	_	_
+2	enim	enim	_	_	_	_	_	_	_
+3	huiusce	hic	_	_	_	_	_	_	_
+4	modi	modus	_	_	_	_	_	_	_
+5	senatus	senatus	_	_	_	_	_	_	_
+6	consultum	consultum	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	verum	verum	_	_	_	_	_	_	_
+9	inclusum	includo	_	_	_	_	_	_	_
+10	in	in	_	_	_	_	_	_	_
+11	tabulis	tabula	_	_	_	_	_	_	_
+12	tamquam	tamquam	_	_	_	_	_	_	_
+13	in	in	_	_	_	_	_	_	_
+14	vagina	vagina	_	_	_	_	_	_	_
+15	reconditum	recondo	_	_	_	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	quo	qui	_	_	_	_	_	_	_
+18	ex	ex	_	_	_	_	_	_	_
+19	senatus	senatus	_	_	_	_	_	_	_
+20	consulto	consultum	_	_	_	_	_	_	_
+21	confestim	confestim	_	_	_	_	_	_	_
+22	te	tu	_	_	_	_	_	_	_
+23	interfectum	interficio	_	_	_	_	_	_	_
+24	esse	sum	_	_	_	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	Catilina	Catilina	_	_	_	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	convenit	convenio	_	_	_	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_33
+# text = Vivis , et vivis non ad deponendam , sed ad confirmandam audaciam .
+1	Vivis	vivo	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	et	et	_	_	_	_	_	_	_
+4	vivis	vivo	_	_	_	_	_	_	_
+5	non	non	_	_	_	_	_	_	_
+6	ad	ad	_	_	_	_	_	_	_
+7	deponendam	depono	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	sed	sed	_	_	_	_	_	_	_
+10	ad	ad	_	_	_	_	_	_	_
+11	confirmandam	confirmo	_	_	_	_	_	_	_
+12	audaciam	audacia	_	_	_	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_34
+# text = Cupio , patres conscripti , me esse clementem , cupio in tantis rei publicae periculis me non dissolutum videri , sed iam me ipse inertiae nequitiaeque condemno .
+1	Cupio	cupio	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	patres	pater	_	_	_	_	_	_	_
+4	conscripti	conscribo	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	me	ego	_	_	_	_	_	_	_
+7	esse	sum	_	_	_	_	_	_	_
+8	clementem	clemens	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	cupio	cupio	_	_	_	_	_	_	_
+11	in	in	_	_	_	_	_	_	_
+12	tantis	tantus	_	_	_	_	_	_	_
+13	rei	res	_	_	_	_	_	_	_
+14	publicae	publicus	_	_	_	_	_	_	_
+15	periculis	periculum	_	_	_	_	_	_	_
+16	me	ego	_	_	_	_	_	_	_
+17	non	non	_	_	_	_	_	_	_
+18	dissolutum	dissolvo	_	_	_	_	_	_	_
+19	videri	video	_	_	_	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	sed	sed	_	_	_	_	_	_	_
+22	iam	iam	_	_	_	_	_	_	_
+23	me	ego	_	_	_	_	_	_	_
+24	ipse	ipse	_	_	_	_	_	_	_
+25	inertiae	inertia	_	_	_	_	_	_	_
+26	nequitiaeque	nequitia	_	_	_	_	_	_	_
+27	condemno	condemno	_	_	_	_	_	_	_
+28	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_35
+# text = [5 ] Castra sunt in Italia contra populum Romanum in Etruriae faucibus conlocata , crescit in dies singulos hostium numerus ;
+1	[5	[5	_	_	_	_	_	_	_
+2	]	]	_	_	_	_	_	_	_
+3	Castra	castra	_	_	_	_	_	_	_
+4	sunt	sum	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	Italia	Italia	_	_	_	_	_	_	_
+7	contra	contra	_	_	_	_	_	_	_
+8	populum	populus	_	_	_	_	_	_	_
+9	Romanum	Romanus	_	_	_	_	_	_	_
+10	in	in	_	_	_	_	_	_	_
+11	Etruriae	Etruria	_	_	_	_	_	_	_
+12	faucibus	fauces	_	_	_	_	_	_	_
+13	conlocata	conloco	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	crescit	cresco	_	_	_	_	_	_	_
+16	in	in	_	_	_	_	_	_	_
+17	dies	dies	_	_	_	_	_	_	_
+18	singulos	singulus	_	_	_	_	_	_	_
+19	hostium	hostis	_	_	_	_	_	_	_
+20	numerus	numerus	_	_	_	_	_	_	_
+21	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_36
+# text = eorum autem castrorum imperatorem ducemque hostium intra moenia atque adeo in senatu videtis intestinam aliquam cotidie perniciem rei publicae molientem .
+1	eorum	is	_	_	_	_	_	_	_
+2	autem	autem	_	_	_	_	_	_	_
+3	castrorum	castra	_	_	_	_	_	_	_
+4	imperatorem	imperator	_	_	_	_	_	_	_
+5	ducemque	dux	_	_	_	_	_	_	_
+6	hostium	hostis	_	_	_	_	_	_	_
+7	intra	intra	_	_	_	_	_	_	_
+8	moenia	moenia	_	_	_	_	_	_	_
+9	atque	atque	_	_	_	_	_	_	_
+10	adeo	adeo	_	_	_	_	_	_	_
+11	in	in	_	_	_	_	_	_	_
+12	senatu	senatus	_	_	_	_	_	_	_
+13	videtis	video	_	_	_	_	_	_	_
+14	intestinam	intestinus	_	_	_	_	_	_	_
+15	aliquam	aliquis	_	_	_	_	_	_	_
+16	cotidie	cotidie	_	_	_	_	_	_	_
+17	perniciem	pernicies	_	_	_	_	_	_	_
+18	rei	res	_	_	_	_	_	_	_
+19	publicae	publicus	_	_	_	_	_	_	_
+20	molientem	molior	_	_	_	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_37
+# text = Si te iam , Catilina , comprehendi , si interfici iussero , credo , erit verendum mihi , ne non potius hoc omnes boni serius a me quam quisquam crudelius factum esse dicat .
+1	Si	si	_	_	_	_	_	_	_
+2	te	tu	_	_	_	_	_	_	_
+3	iam	iam	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	Catilina	Catilina	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	comprehendi	comprehendo	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	si	si	_	_	_	_	_	_	_
+10	interfici	interficio	_	_	_	_	_	_	_
+11	iussero	iubeo	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	credo	credo	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	erit	sum	_	_	_	_	_	_	_
+16	verendum	vereor	_	_	_	_	_	_	_
+17	mihi	ego	_	_	_	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	ne	ne	_	_	_	_	_	_	_
+20	non	non	_	_	_	_	_	_	_
+21	potius	potius	_	_	_	_	_	_	_
+22	hoc	hic	_	_	_	_	_	_	_
+23	omnes	omnis	_	_	_	_	_	_	_
+24	boni	bonus	_	_	_	_	_	_	_
+25	serius	sero	_	_	_	_	_	_	_
+26	a	ab	_	_	_	_	_	_	_
+27	me	ego	_	_	_	_	_	_	_
+28	quam	quam	_	_	_	_	_	_	_
+29	quisquam	quisquam	_	_	_	_	_	_	_
+30	crudelius	crudeliter	_	_	_	_	_	_	_
+31	factum	facio	_	_	_	_	_	_	_
+32	esse	sum	_	_	_	_	_	_	_
+33	dicat	dico	_	_	_	_	_	_	_
+34	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_38
+# text = Verum ego hoc , quod iam pridem factum esse oportuit , certa de causa nondum adducor ut faciam .
+1	Verum	verum	_	_	_	_	_	_	_
+2	ego	ego	_	_	_	_	_	_	_
+3	hoc	hic	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	quod	qui	_	_	_	_	_	_	_
+6	iam	iam	_	_	_	_	_	_	_
+7	pridem	pridem	_	_	_	_	_	_	_
+8	factum	facio	_	_	_	_	_	_	_
+9	esse	sum	_	_	_	_	_	_	_
+10	oportuit	oportet	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	certa	certus	_	_	_	_	_	_	_
+13	de	de	_	_	_	_	_	_	_
+14	causa	causa	_	_	_	_	_	_	_
+15	nondum	nondum	_	_	_	_	_	_	_
+16	adducor	adduco	_	_	_	_	_	_	_
+17	ut	ut	_	_	_	_	_	_	_
+18	faciam	facio	_	_	_	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_39
+# text = Tum denique interficiere , cum iam nemo tam inprobus , tam perditus , tam tui similis inveniri poterit , qui id non iure factum esse fateatur .
+1	Tum	tum	_	_	_	_	_	_	_
+2	denique	denique	_	_	_	_	_	_	_
+3	interficiere	interficio	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	cum	cum	_	_	_	_	_	_	_
+6	iam	iam	_	_	_	_	_	_	_
+7	nemo	nemo	_	_	_	_	_	_	_
+8	tam	tam	_	_	_	_	_	_	_
+9	inprobus	improbus	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	tam	tam	_	_	_	_	_	_	_
+12	perditus	perdo	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	tam	tam	_	_	_	_	_	_	_
+15	tui	tu	_	_	_	_	_	_	_
+16	similis	similis	_	_	_	_	_	_	_
+17	inveniri	invenio	_	_	_	_	_	_	_
+18	poterit	possum	_	_	_	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	qui	qui	_	_	_	_	_	_	_
+21	id	is	_	_	_	_	_	_	_
+22	non	non	_	_	_	_	_	_	_
+23	iure	iure	_	_	_	_	_	_	_
+24	factum	facio	_	_	_	_	_	_	_
+25	esse	sum	_	_	_	_	_	_	_
+26	fateatur	fateor	_	_	_	_	_	_	_
+27	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_40
+# text = [6 ] Quamdiu quisquam erit , qui te defendere audeat , vives , et vives ita , ut [ nunc ] vivis , multis meis et firmis praesidiis obsessus , ne commovere te contra rem publicam possis .
+1	[6	[6	_	_	_	_	_	_	_
+2	]	]	_	_	_	_	_	_	_
+3	Quamdiu	quamdiu	_	_	_	_	_	_	_
+4	quisquam	quisquam	_	_	_	_	_	_	_
+5	erit	sum	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	qui	qui	_	_	_	_	_	_	_
+8	te	tu	_	_	_	_	_	_	_
+9	defendere	defendo	_	_	_	_	_	_	_
+10	audeat	audeo	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	vives	vivo	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	et	et	_	_	_	_	_	_	_
+15	vives	vivo	_	_	_	_	_	_	_
+16	ita	ita	_	_	_	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	ut	ut	_	_	_	_	_	_	_
+19	[	[	_	_	_	_	_	_	_
+20	nunc	nunc	_	_	_	_	_	_	_
+21	]	]	_	_	_	_	_	_	_
+22	vivis	vivo	_	_	_	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	multis	multus	_	_	_	_	_	_	_
+25	meis	meus	_	_	_	_	_	_	_
+26	et	et	_	_	_	_	_	_	_
+27	firmis	firmus	_	_	_	_	_	_	_
+28	praesidiis	praesidium	_	_	_	_	_	_	_
+29	obsessus	obsideo	_	_	_	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	ne	ne	_	_	_	_	_	_	_
+32	commovere	commoveo	_	_	_	_	_	_	_
+33	te	tu	_	_	_	_	_	_	_
+34	contra	contra	_	_	_	_	_	_	_
+35	rem	res	_	_	_	_	_	_	_
+36	publicam	publicus	_	_	_	_	_	_	_
+37	possis	possum	_	_	_	_	_	_	_
+38	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_41
+# text = Multorum te etiam oculi et aures non sentientem , sicut adhuc fecerunt , speculabuntur atque custodient.
+1	Multorum	multus	_	_	_	_	_	_	_
+2	te	tu	_	_	_	_	_	_	_
+3	etiam	etiam	_	_	_	_	_	_	_
+4	oculi	oculus	_	_	_	_	_	_	_
+5	et	et	_	_	_	_	_	_	_
+6	aures	auris	_	_	_	_	_	_	_
+7	non	non	_	_	_	_	_	_	_
+8	sentientem	sentio	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	sicut	sicut	_	_	_	_	_	_	_
+11	adhuc	adhuc	_	_	_	_	_	_	_
+12	fecerunt	facio	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	speculabuntur	speculor	_	_	_	_	_	_	_
+15	atque	atque	_	_	_	_	_	_	_
+16	custodient.	custodio	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_42
+# text = III .
+1	III	III	_	_	_	_	_	_	_
+2	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_43
+# text = Etenim quid est , Catilina , quod iam amplius expectes , si neque nox tenebris obscurare coetus nefarios nec privata domus parietibus continere voces coniurationis tuae potest , si illustrantur , si erumpunt omnia ?
+1	Etenim	etenim	_	_	_	_	_	_	_
+2	quid	quis	_	_	_	_	_	_	_
+3	est	sum	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	Catilina	Catilina	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	quod	qui	_	_	_	_	_	_	_
+8	iam	iam	_	_	_	_	_	_	_
+9	amplius	amplus	_	_	_	_	_	_	_
+10	expectes	exspecto	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	si	si	_	_	_	_	_	_	_
+13	neque	neque	_	_	_	_	_	_	_
+14	nox	nox	_	_	_	_	_	_	_
+15	tenebris	tenebrae	_	_	_	_	_	_	_
+16	obscurare	obscuro	_	_	_	_	_	_	_
+17	coetus	coetus	_	_	_	_	_	_	_
+18	nefarios	nefarius	_	_	_	_	_	_	_
+19	nec	,	_	_	_	_	_	_	_
+20	privata	privatus	_	_	_	_	_	_	_
+21	domus	domus	_	_	_	_	_	_	_
+22	parietibus	paries	_	_	_	_	_	_	_
+23	continere	contineo	_	_	_	_	_	_	_
+24	voces	vox	_	_	_	_	_	_	_
+25	coniurationis	coniuratio	_	_	_	_	_	_	_
+26	tuae	tuus	_	_	_	_	_	_	_
+27	potest	possum	_	_	_	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	si	si	_	_	_	_	_	_	_
+30	illustrantur	illustro	_	_	_	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	si	si	_	_	_	_	_	_	_
+33	erumpunt	erumpo	_	_	_	_	_	_	_
+34	omnia	omnis	_	_	_	_	_	_	_
+35	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_44
+# text = Muta iam istam mentem , mihi crede , obliviscere caedis atque incendiorum .
+1	Muta	muto	_	_	_	_	_	_	_
+2	iam	iam	_	_	_	_	_	_	_
+3	istam	iste	_	_	_	_	_	_	_
+4	mentem	mens	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	mihi	ego	_	_	_	_	_	_	_
+7	crede	credo	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	obliviscere	obliviscor	_	_	_	_	_	_	_
+10	caedis	caedes	_	_	_	_	_	_	_
+11	atque	atque	_	_	_	_	_	_	_
+12	incendiorum	incendium	_	_	_	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_45
+# text = Teneris undique ;
+1	Teneris	teneo	_	_	_	_	_	_	_
+2	undique	undique	_	_	_	_	_	_	_
+3	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_46
+# text = luce sunt clariora nobis tua consilia omnia ;
+1	luce	lux	_	_	_	_	_	_	_
+2	sunt	sum	_	_	_	_	_	_	_
+3	clariora	clarus	_	_	_	_	_	_	_
+4	nobis	ego	_	_	_	_	_	_	_
+5	tua	tuus	_	_	_	_	_	_	_
+6	consilia	consilium	_	_	_	_	_	_	_
+7	omnia	omnis	_	_	_	_	_	_	_
+8	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_47
+# text = quae iam mecum licet recognoscas .
+1	quae	qui	_	_	_	_	_	_	_
+2	iam	iam	_	_	_	_	_	_	_
+3	mecum	ego	_	_	_	_	_	_	_
+4	licet	licet	_	_	_	_	_	_	_
+5	recognoscas	recognosco	_	_	_	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_48
+# text = [7 ] Meministine me ante diem XII Kalendas Novembris dicere in senatu fore in armis certo die , qui dies futurus esset ante diem VI Kal. Novembris , C. Manlium , audaciae satellitem atque administrum tuae ?
+1	[7	[7	_	_	_	_	_	_	_
+2	]	]	_	_	_	_	_	_	_
+3	Meministine	memini	_	_	_	_	_	_	_
+4	me	ego	_	_	_	_	_	_	_
+5	ante	ante	_	_	_	_	_	_	_
+6	diem	dies	_	_	_	_	_	_	_
+7	XII	XII	_	_	_	_	_	_	_
+8	Kalendas	Kalendae	_	_	_	_	_	_	_
+9	Novembris	November	_	_	_	_	_	_	_
+10	dicere	dico	_	_	_	_	_	_	_
+11	in	in	_	_	_	_	_	_	_
+12	senatu	senatus	_	_	_	_	_	_	_
+13	fore	sum	_	_	_	_	_	_	_
+14	in	in	_	_	_	_	_	_	_
+15	armis	arma	_	_	_	_	_	_	_
+16	certo	certus	_	_	_	_	_	_	_
+17	die	dies	_	_	_	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	qui	qui	_	_	_	_	_	_	_
+20	dies	dies	_	_	_	_	_	_	_
+21	futurus	sum	_	_	_	_	_	_	_
+22	esset	sum	_	_	_	_	_	_	_
+23	ante	ante	_	_	_	_	_	_	_
+24	diem	dies	_	_	_	_	_	_	_
+25	VI	VI	_	_	_	_	_	_	_
+26	Kal.	Kalendae	_	_	_	_	_	_	_
+27	Novembris	November	_	_	_	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	C.	Gaius	_	_	_	_	_	_	_
+30	Manlium	Manlius	_	_	_	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	audaciae	audacia	_	_	_	_	_	_	_
+33	satellitem	satelles	_	_	_	_	_	_	_
+34	atque	atque	_	_	_	_	_	_	_
+35	administrum	administer	_	_	_	_	_	_	_
+36	tuae	tuus	_	_	_	_	_	_	_
+37	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_49
+# text = Num me fefellit , Catilina , non modo res tanta , tam atrox tamque incredibilis , verum , id quod multo magis est admirandum , dies ?
+1	Num	num	_	_	_	_	_	_	_
+2	me	ego	_	_	_	_	_	_	_
+3	fefellit	fallo	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	Catilina	Catilina	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	non	non	_	_	_	_	_	_	_
+8	modo	modo	_	_	_	_	_	_	_
+9	res	res	_	_	_	_	_	_	_
+10	tanta	tantus	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	tam	tam	_	_	_	_	_	_	_
+13	atrox	atrox	_	_	_	_	_	_	_
+14	tamque	tam	_	_	_	_	_	_	_
+15	incredibilis	incredibilis	_	_	_	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	verum	verum	_	_	_	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	id	is	_	_	_	_	_	_	_
+20	quod	qui	_	_	_	_	_	_	_
+21	multo	multus	_	_	_	_	_	_	_
+22	magis	magis	_	_	_	_	_	_	_
+23	est	sum	_	_	_	_	_	_	_
+24	admirandum	admiror	_	_	_	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	dies	dies	_	_	_	_	_	_	_
+27	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_50
+# text = Dixi ego idem in senatu caedem te optumatium contulisse in ante diem V Kalendas Novembris , tum cum multi principes civitatis Roma non tam sui conservandi quam tuorum consiliorum reprimendorum causa profugerunt .
+1	Dixi	dico	_	_	_	_	_	_	_
+2	ego	ego	_	_	_	_	_	_	_
+3	idem	idem	_	_	_	_	_	_	_
+4	in	in	_	_	_	_	_	_	_
+5	senatu	senatus	_	_	_	_	_	_	_
+6	caedem	caedes	_	_	_	_	_	_	_
+7	te	tu	_	_	_	_	_	_	_
+8	optumatium	optimas	_	_	_	_	_	_	_
+9	contulisse	confero	_	_	_	_	_	_	_
+10	in	in	_	_	_	_	_	_	_
+11	ante	ante	_	_	_	_	_	_	_
+12	diem	dies	_	_	_	_	_	_	_
+13	V	V	_	_	_	_	_	_	_
+14	Kalendas	Kalendae	_	_	_	_	_	_	_
+15	Novembris	November	_	_	_	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	tum	tum	_	_	_	_	_	_	_
+18	cum	cum	_	_	_	_	_	_	_
+19	multi	multus	_	_	_	_	_	_	_
+20	principes	princeps	_	_	_	_	_	_	_
+21	civitatis	civitas	_	_	_	_	_	_	_
+22	Roma	Roma	_	_	_	_	_	_	_
+23	non	non	_	_	_	_	_	_	_
+24	tam	tam	_	_	_	_	_	_	_
+25	sui	sui	_	_	_	_	_	_	_
+26	conservandi	conservo	_	_	_	_	_	_	_
+27	quam	quam	_	_	_	_	_	_	_
+28	tuorum	tuus	_	_	_	_	_	_	_
+29	consiliorum	consilium	_	_	_	_	_	_	_
+30	reprimendorum	reprimo	_	_	_	_	_	_	_
+31	causa	causa	_	_	_	_	_	_	_
+32	profugerunt	profugio	_	_	_	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_51
+# text = Num infitiari potes te illo ipso die meis praesidiis , mea diligentia circumclusum commovere te contra rem publicam non potuisse , cum tu discessu ceterorum nostra tamen , qui remansissemus , caede te contentum esse dicebas ?
+1	Num	num	_	_	_	_	_	_	_
+2	infitiari	infitior	_	_	_	_	_	_	_
+3	potes	possum	_	_	_	_	_	_	_
+4	te	tu	_	_	_	_	_	_	_
+5	illo	ille	_	_	_	_	_	_	_
+6	ipso	ipse	_	_	_	_	_	_	_
+7	die	dies	_	_	_	_	_	_	_
+8	meis	meus	_	_	_	_	_	_	_
+9	praesidiis	praesidium	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	mea	meus	_	_	_	_	_	_	_
+12	diligentia	diligentia	_	_	_	_	_	_	_
+13	circumclusum	circumcludo	_	_	_	_	_	_	_
+14	commovere	commoveo	_	_	_	_	_	_	_
+15	te	tu	_	_	_	_	_	_	_
+16	contra	contra	_	_	_	_	_	_	_
+17	rem	res	_	_	_	_	_	_	_
+18	publicam	publicus	_	_	_	_	_	_	_
+19	non	non	_	_	_	_	_	_	_
+20	potuisse	possum	_	_	_	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	cum	cum	_	_	_	_	_	_	_
+23	tu	tu	_	_	_	_	_	_	_
+24	discessu	discessus	_	_	_	_	_	_	_
+25	ceterorum	ceteri	_	_	_	_	_	_	_
+26	nostra	noster	_	_	_	_	_	_	_
+27	tamen	tamen	_	_	_	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	qui	qui	_	_	_	_	_	_	_
+30	remansissemus	remaneo	_	_	_	_	_	_	_
+31	,	,	_	_	_	_	_	_	_
+32	caede	caedes	_	_	_	_	_	_	_
+33	te	tu	_	_	_	_	_	_	_
+34	contentum	contentus	_	_	_	_	_	_	_
+35	esse	sum	_	_	_	_	_	_	_
+36	dicebas	dico	_	_	_	_	_	_	_
+37	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_52
+# text = [8 ] Quid ?
+1	[8	[8	_	_	_	_	_	_	_
+2	]	]	_	_	_	_	_	_	_
+3	Quid	quis	_	_	_	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_53
+# text = cum te Praeneste Kalendis ipsis Novembribus occupaturum nocturno impetu esse confideres , sensistine illam coloniam meo iussu meis praesidiis , custodiis , vigiliis esse munitam ?
+1	cum	cum	_	_	_	_	_	_	_
+2	te	tu	_	_	_	_	_	_	_
+3	Praeneste	Praeneste	_	_	_	_	_	_	_
+4	Kalendis	Kalendae	_	_	_	_	_	_	_
+5	ipsis	ipse	_	_	_	_	_	_	_
+6	Novembribus	November	_	_	_	_	_	_	_
+7	occupaturum	occupo	_	_	_	_	_	_	_
+8	nocturno	nocturnus	_	_	_	_	_	_	_
+9	impetu	impetus	_	_	_	_	_	_	_
+10	esse	sum	_	_	_	_	_	_	_
+11	confideres	confido	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	sensistine	sentio	_	_	_	_	_	_	_
+14	illam	ille	_	_	_	_	_	_	_
+15	coloniam	colonia	_	_	_	_	_	_	_
+16	meo	meus	_	_	_	_	_	_	_
+17	iussu	iussus	_	_	_	_	_	_	_
+18	meis	meus	_	_	_	_	_	_	_
+19	praesidiis	praesidium	_	_	_	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	custodiis	custodia	_	_	_	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	vigiliis	vigilia	_	_	_	_	_	_	_
+24	esse	sum	_	_	_	_	_	_	_
+25	munitam	munio	_	_	_	_	_	_	_
+26	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_54
+# text = Nihil agis , nihil moliris , nihil cogitas , quod non ego non modo audiam , sed etiam videam planeque sentiam .
+1	Nihil	nihil	_	_	_	_	_	_	_
+2	agis	ago	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	nihil	nihil	_	_	_	_	_	_	_
+5	moliris	molior	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	nihil	nihil	_	_	_	_	_	_	_
+8	cogitas	cogito	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	quod	qui	_	_	_	_	_	_	_
+11	non	non	_	_	_	_	_	_	_
+12	ego	ego	_	_	_	_	_	_	_
+13	non	non	_	_	_	_	_	_	_
+14	modo	modo	_	_	_	_	_	_	_
+15	audiam	audio	_	_	_	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	sed	sed	_	_	_	_	_	_	_
+18	etiam	etiam	_	_	_	_	_	_	_
+19	videam	video	_	_	_	_	_	_	_
+20	planeque	plane	_	_	_	_	_	_	_
+21	sentiam	sentio	_	_	_	_	_	_	_
+22	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_55
+# text = IV . Recognosce tandem mecum noctem illam superiorem ;
+1	IV	IV	_	_	_	_	_	_	_
+2	.	.	_	_	_	_	_	_	_
+3	Recognosce	recognosco	_	_	_	_	_	_	_
+4	tandem	tandem	_	_	_	_	_	_	_
+5	mecum	ego	_	_	_	_	_	_	_
+6	noctem	nox	_	_	_	_	_	_	_
+7	illam	ille	_	_	_	_	_	_	_
+8	superiorem	superior	_	_	_	_	_	_	_
+9	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_56
+# text = iam intelleges multo me vigilare acrius ad salutem quam te ad perniciem rei publicae .
+1	iam	iam	_	_	_	_	_	_	_
+2	intelleges	intellego	_	_	_	_	_	_	_
+3	multo	multus	_	_	_	_	_	_	_
+4	me	ego	_	_	_	_	_	_	_
+5	vigilare	vigilo	_	_	_	_	_	_	_
+6	acrius	acer	_	_	_	_	_	_	_
+7	ad	ad	_	_	_	_	_	_	_
+8	salutem	salus	_	_	_	_	_	_	_
+9	quam	quam	_	_	_	_	_	_	_
+10	te	tu	_	_	_	_	_	_	_
+11	ad	ad	_	_	_	_	_	_	_
+12	perniciem	pernicies	_	_	_	_	_	_	_
+13	rei	res	_	_	_	_	_	_	_
+14	publicae	publicus	_	_	_	_	_	_	_
+15	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_57
+# text = Dico te priore nocte venisse inter falcarios--non agam obscure--in M. Laecae domum ;
+1	Dico	dico	_	_	_	_	_	_	_
+2	te	tu	_	_	_	_	_	_	_
+3	priore	prior	_	_	_	_	_	_	_
+4	nocte	nox	_	_	_	_	_	_	_
+5	venisse	venio	_	_	_	_	_	_	_
+6	inter	inter	_	_	_	_	_	_	_
+7	falcarios--non	falcarius--non	_	_	_	_	_	_	_
+8	agam	ago	_	_	_	_	_	_	_
+9	obscure--in	obscure--in	_	_	_	_	_	_	_
+10	M.	Marcus	_	_	_	_	_	_	_
+11	Laecae	Laeca	_	_	_	_	_	_	_
+12	domum	domus	_	_	_	_	_	_	_
+13	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_58
+# text = convenisse eodem complures eiusdem amentiae scelerisque socios .
+1	convenisse	convenio	_	_	_	_	_	_	_
+2	eodem	eodem	_	_	_	_	_	_	_
+3	complures	complures	_	_	_	_	_	_	_
+4	eiusdem	idem	_	_	_	_	_	_	_
+5	amentiae	amentia	_	_	_	_	_	_	_
+6	scelerisque	scelus	_	_	_	_	_	_	_
+7	socios	socius	_	_	_	_	_	_	_
+8	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_59
+# text = Num negare audes ?
+1	Num	num	_	_	_	_	_	_	_
+2	negare	nego	_	_	_	_	_	_	_
+3	audes	audeo	_	_	_	_	_	_	_
+4	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_60
+# text = quid taces ?
+1	quid	quis	_	_	_	_	_	_	_
+2	taces	taceo	_	_	_	_	_	_	_
+3	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_61
+# text = Con vincam , si negas .
+1	Con	cum	_	_	_	_	_	_	_
+2	vincam	vinco	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	si	si	_	_	_	_	_	_	_
+5	negas	nego	_	_	_	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_62
+# text = Video enim esse hic in senatu quosdam , qui tecum una fuerunt .
+1	Video	video	_	_	_	_	_	_	_
+2	enim	enim	_	_	_	_	_	_	_
+3	esse	sum	_	_	_	_	_	_	_
+4	hic	hic	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	senatu	senatus	_	_	_	_	_	_	_
+7	quosdam	quidam	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	qui	qui	_	_	_	_	_	_	_
+10	tecum	tu	_	_	_	_	_	_	_
+11	una	una	_	_	_	_	_	_	_
+12	fuerunt	sum	_	_	_	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_63
+# text = [9 ] O di inmortales ! ubinam gentium sumus ?
+1	[9	[9	_	_	_	_	_	_	_
+2	]	]	_	_	_	_	_	_	_
+3	O	o	_	_	_	_	_	_	_
+4	di	deus	_	_	_	_	_	_	_
+5	inmortales	immortalis	_	_	_	_	_	_	_
+6	!	!	_	_	_	_	_	_	_
+7	ubinam	ubinam	_	_	_	_	_	_	_
+8	gentium	gens	_	_	_	_	_	_	_
+9	sumus	sum	_	_	_	_	_	_	_
+10	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_64
+# text = in qua urbe vivimus ?
+1	in	in	_	_	_	_	_	_	_
+2	qua	qui	_	_	_	_	_	_	_
+3	urbe	urbs	_	_	_	_	_	_	_
+4	vivimus	vivo	_	_	_	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_65
+# text = quam rem publicam habemus ?
+1	quam	qui	_	_	_	_	_	_	_
+2	rem	res	_	_	_	_	_	_	_
+3	publicam	publicus	_	_	_	_	_	_	_
+4	habemus	habeo	_	_	_	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_66
+# text = Hic , hic sunt in nostro numero , patres conscripti , in hoc orbis terrae sanctissimo gravissimoque consilio , qui de nostro omnium interitu , qui de huius urbis atque adeo de orbis terrarum exitio cogitent! Hos ego video consul et de re publica sententiam rogo et , quos ferro trucidari oportebat , eos nondum voce volnero !
+1	Hic	hic	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	hic	hic	_	_	_	_	_	_	_
+4	sunt	sum	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	nostro	noster	_	_	_	_	_	_	_
+7	numero	numerus	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	patres	pater	_	_	_	_	_	_	_
+10	conscripti	conscribo	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	in	in	_	_	_	_	_	_	_
+13	hoc	hic	_	_	_	_	_	_	_
+14	orbis	orbis	_	_	_	_	_	_	_
+15	terrae	terra	_	_	_	_	_	_	_
+16	sanctissimo	sanctus	_	_	_	_	_	_	_
+17	gravissimoque	gravis	_	_	_	_	_	_	_
+18	consilio	consilium	_	_	_	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	qui	qui	_	_	_	_	_	_	_
+21	de	de	_	_	_	_	_	_	_
+22	nostro	noster	_	_	_	_	_	_	_
+23	omnium	omnis	_	_	_	_	_	_	_
+24	interitu	interitus	_	_	_	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	qui	qui	_	_	_	_	_	_	_
+27	de	de	_	_	_	_	_	_	_
+28	huius	hic	_	_	_	_	_	_	_
+29	urbis	urbs	_	_	_	_	_	_	_
+30	atque	atque	_	_	_	_	_	_	_
+31	adeo	adeo	_	_	_	_	_	_	_
+32	de	de	_	_	_	_	_	_	_
+33	orbis	orbis	_	_	_	_	_	_	_
+34	terrarum	terra	_	_	_	_	_	_	_
+35	exitio	exitium	_	_	_	_	_	_	_
+36	cogitent!	cogito	_	_	_	_	_	_	_
+37	Hos	hic	_	_	_	_	_	_	_
+38	ego	ego	_	_	_	_	_	_	_
+39	video	video	_	_	_	_	_	_	_
+40	consul	consul	_	_	_	_	_	_	_
+41	et	et	_	_	_	_	_	_	_
+42	de	de	_	_	_	_	_	_	_
+43	re	res	_	_	_	_	_	_	_
+44	publica	publicus	_	_	_	_	_	_	_
+45	sententiam	sententia	_	_	_	_	_	_	_
+46	rogo	rogo	_	_	_	_	_	_	_
+47	et	et	_	_	_	_	_	_	_
+48	,	,	_	_	_	_	_	_	_
+49	quos	qui	_	_	_	_	_	_	_
+50	ferro	ferrum	_	_	_	_	_	_	_
+51	trucidari	trucido	_	_	_	_	_	_	_
+52	oportebat	oportet	_	_	_	_	_	_	_
+53	,	,	_	_	_	_	_	_	_
+54	eos	is	_	_	_	_	_	_	_
+55	nondum	nondum	_	_	_	_	_	_	_
+56	voce	vox	_	_	_	_	_	_	_
+57	volnero	vulnero	_	_	_	_	_	_	_
+58	!	!	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_67
+# text = Fuisti igitur apud Laecam illa nocte , Catilina , distribuisti partes Italiae , statuisti , quo quemque proficisci placeret , delegisti , quos Romae relinqueres , quos tecum educeres , discripsisti urbis partes ad incendia , confirmasti te ipsum iam esse exiturum , dixisti paulum tibi esse etiam nunc morae , quod ego viverem .
+1	Fuisti	sum	_	_	_	_	_	_	_
+2	igitur	igitur	_	_	_	_	_	_	_
+3	apud	apud	_	_	_	_	_	_	_
+4	Laecam	Laeca	_	_	_	_	_	_	_
+5	illa	ille	_	_	_	_	_	_	_
+6	nocte	nox	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	Catilina	Catilina	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	distribuisti	distribuo	_	_	_	_	_	_	_
+11	partes	pars	_	_	_	_	_	_	_
+12	Italiae	Italia	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	statuisti	statuo	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	quo	quo	_	_	_	_	_	_	_
+17	quemque	quisque	_	_	_	_	_	_	_
+18	proficisci	proficiscor	_	_	_	_	_	_	_
+19	placeret	placeo	_	_	_	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	delegisti	deligo	_	_	_	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	quos	qui	_	_	_	_	_	_	_
+24	Romae	Roma	_	_	_	_	_	_	_
+25	relinqueres	relinquo	_	_	_	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	quos	qui	_	_	_	_	_	_	_
+28	tecum	tu	_	_	_	_	_	_	_
+29	educeres	educo	_	_	_	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	discripsisti	discribo	_	_	_	_	_	_	_
+32	urbis	urbs	_	_	_	_	_	_	_
+33	partes	pars	_	_	_	_	_	_	_
+34	ad	ad	_	_	_	_	_	_	_
+35	incendia	incendium	_	_	_	_	_	_	_
+36	,	,	_	_	_	_	_	_	_
+37	confirmasti	confirmo	_	_	_	_	_	_	_
+38	te	tu	_	_	_	_	_	_	_
+39	ipsum	ipse	_	_	_	_	_	_	_
+40	iam	iam	_	_	_	_	_	_	_
+41	esse	sum	_	_	_	_	_	_	_
+42	exiturum	exeo	_	_	_	_	_	_	_
+43	,	,	_	_	_	_	_	_	_
+44	dixisti	dico	_	_	_	_	_	_	_
+45	paulum	paulum	_	_	_	_	_	_	_
+46	tibi	tu	_	_	_	_	_	_	_
+47	esse	sum	_	_	_	_	_	_	_
+48	etiam	etiam	_	_	_	_	_	_	_
+49	nunc	nunc	_	_	_	_	_	_	_
+50	morae	mora	_	_	_	_	_	_	_
+51	,	,	_	_	_	_	_	_	_
+52	quod	quod	_	_	_	_	_	_	_
+53	ego	ego	_	_	_	_	_	_	_
+54	viverem	vivo	_	_	_	_	_	_	_
+55	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_68
+# text = Reperti sunt duo equites Romani , qui te ista cura liberarent et sese illa ipsa nocte paulo ante lucem me in meo lectulo interfecturos [ esse ] pollicerentur . [10 ]
+1	Reperti	reperio	_	_	_	_	_	_	_
+2	sunt	sum	_	_	_	_	_	_	_
+3	duo	duo	_	_	_	_	_	_	_
+4	equites	eques	_	_	_	_	_	_	_
+5	Romani	Romanus	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	qui	qui	_	_	_	_	_	_	_
+8	te	tu	_	_	_	_	_	_	_
+9	ista	iste	_	_	_	_	_	_	_
+10	cura	cura	_	_	_	_	_	_	_
+11	liberarent	libero	_	_	_	_	_	_	_
+12	et	et	_	_	_	_	_	_	_
+13	sese	sui	_	_	_	_	_	_	_
+14	illa	ille	_	_	_	_	_	_	_
+15	ipsa	ipse	_	_	_	_	_	_	_
+16	nocte	nox	_	_	_	_	_	_	_
+17	paulo	paulo	_	_	_	_	_	_	_
+18	ante	ante	_	_	_	_	_	_	_
+19	lucem	lux	_	_	_	_	_	_	_
+20	me	ego	_	_	_	_	_	_	_
+21	in	in	_	_	_	_	_	_	_
+22	meo	meus	_	_	_	_	_	_	_
+23	lectulo	lectulus	_	_	_	_	_	_	_
+24	interfecturos	interficio	_	_	_	_	_	_	_
+25	[	[	_	_	_	_	_	_	_
+26	esse	sum	_	_	_	_	_	_	_
+27	]	]	_	_	_	_	_	_	_
+28	pollicerentur	polliceor	_	_	_	_	_	_	_
+29	.	.	_	_	_	_	_	_	_
+30	[10	[10	_	_	_	_	_	_	_
+31	]	]	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_69
+# text = Haec ego omnia vixdum etiam coetu vestro dimisso comperi ;
+1	Haec	hic	_	_	_	_	_	_	_
+2	ego	ego	_	_	_	_	_	_	_
+3	omnia	omnis	_	_	_	_	_	_	_
+4	vixdum	vixdum	_	_	_	_	_	_	_
+5	etiam	etiam	_	_	_	_	_	_	_
+6	coetu	coetus	_	_	_	_	_	_	_
+7	vestro	vester	_	_	_	_	_	_	_
+8	dimisso	dimitto	_	_	_	_	_	_	_
+9	comperi	comperio	_	_	_	_	_	_	_
+10	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_70
+# text = domum meam maioribus praesidiis munivi atque firmavi , exclusi eos , quos tu ad me salutatum mane miseras , cum illi ipsi venissent , quos ego iam multis ac summis viris ad me id temporis venturos esse praedixeram .
+1	domum	domus	_	_	_	_	_	_	_
+2	meam	meus	_	_	_	_	_	_	_
+3	maioribus	magnus	_	_	_	_	_	_	_
+4	praesidiis	praesidium	_	_	_	_	_	_	_
+5	munivi	munio	_	_	_	_	_	_	_
+6	atque	atque	_	_	_	_	_	_	_
+7	firmavi	firmo	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	exclusi	excludo	_	_	_	_	_	_	_
+10	eos	is	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	quos	qui	_	_	_	_	_	_	_
+13	tu	tu	_	_	_	_	_	_	_
+14	ad	ad	_	_	_	_	_	_	_
+15	me	ego	_	_	_	_	_	_	_
+16	salutatum	saluto	_	_	_	_	_	_	_
+17	mane	mane	_	_	_	_	_	_	_
+18	miseras	mitto	_	_	_	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	cum	cum	_	_	_	_	_	_	_
+21	illi	ille	_	_	_	_	_	_	_
+22	ipsi	ipse	_	_	_	_	_	_	_
+23	venissent	venio	_	_	_	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	quos	qui	_	_	_	_	_	_	_
+26	ego	ego	_	_	_	_	_	_	_
+27	iam	iam	_	_	_	_	_	_	_
+28	multis	multus	_	_	_	_	_	_	_
+29	ac	ac	_	_	_	_	_	_	_
+30	summis	summus	_	_	_	_	_	_	_
+31	viris	vir	_	_	_	_	_	_	_
+32	ad	ad	_	_	_	_	_	_	_
+33	me	ego	_	_	_	_	_	_	_
+34	id	is	_	_	_	_	_	_	_
+35	temporis	tempus	_	_	_	_	_	_	_
+36	venturos	venio	_	_	_	_	_	_	_
+37	esse	sum	_	_	_	_	_	_	_
+38	praedixeram	praedico	_	_	_	_	_	_	_
+39	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_71
+# text = V. Quae cum ita sint , Catilina , perge , quo coepisti , egredere aliquando ex urbe ;
+1	V.	V.	_	_	_	_	_	_	_
+2	Quae	qui	_	_	_	_	_	_	_
+3	cum	cum	_	_	_	_	_	_	_
+4	ita	ita	_	_	_	_	_	_	_
+5	sint	sum	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	Catilina	Catilina	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	perge	pergo	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	quo	quo	_	_	_	_	_	_	_
+12	coepisti	coepi	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	egredere	egredior	_	_	_	_	_	_	_
+15	aliquando	aliquando	_	_	_	_	_	_	_
+16	ex	ex	_	_	_	_	_	_	_
+17	urbe	urbs	_	_	_	_	_	_	_
+18	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_72
+# text = patent portae ;
+1	patent	pateo	_	_	_	_	_	_	_
+2	portae	porta	_	_	_	_	_	_	_
+3	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_73
+# text = proficiscere .
+1	proficiscere	proficiscor	_	_	_	_	_	_	_
+2	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_74
+# text = Nimium diu te imperatorem tua illa Manliana castra desiderant .
+1	Nimium	nimium	_	_	_	_	_	_	_
+2	diu	diu	_	_	_	_	_	_	_
+3	te	tu	_	_	_	_	_	_	_
+4	imperatorem	imperator	_	_	_	_	_	_	_
+5	tua	tuus	_	_	_	_	_	_	_
+6	illa	ille	_	_	_	_	_	_	_
+7	Manliana	Manlianus	_	_	_	_	_	_	_
+8	castra	castra	_	_	_	_	_	_	_
+9	desiderant	desidero	_	_	_	_	_	_	_
+10	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_75
+# text = Educ tecum etiam omnes tuos , si minus , quam plurimos ;
+1	Educ	educo	_	_	_	_	_	_	_
+2	tecum	tu	_	_	_	_	_	_	_
+3	etiam	etiam	_	_	_	_	_	_	_
+4	omnes	omnis	_	_	_	_	_	_	_
+5	tuos	tuus	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	si	si	_	_	_	_	_	_	_
+8	minus	minus	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	quam	quam	_	_	_	_	_	_	_
+11	plurimos	multus	_	_	_	_	_	_	_
+12	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_76
+# text = purga urbem .
+1	purga	purga	_	_	_	_	_	_	_
+2	urbem	urbs	_	_	_	_	_	_	_
+3	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_77
+# text = Magno me metu liberabis , dum modo inter me atque te murus intersit .
+1	Magno	magnus	_	_	_	_	_	_	_
+2	me	ego	_	_	_	_	_	_	_
+3	metu	metus	_	_	_	_	_	_	_
+4	liberabis	libero	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	dum	dum	_	_	_	_	_	_	_
+7	modo	modo	_	_	_	_	_	_	_
+8	inter	inter	_	_	_	_	_	_	_
+9	me	ego	_	_	_	_	_	_	_
+10	atque	atque	_	_	_	_	_	_	_
+11	te	tu	_	_	_	_	_	_	_
+12	murus	murus	_	_	_	_	_	_	_
+13	intersit	intersum	_	_	_	_	_	_	_
+14	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_78
+# text = Nobiscum versari iam diutius non potes ;
+1	Nobiscum	nos	_	_	_	_	_	_	_
+2	versari	versor	_	_	_	_	_	_	_
+3	iam	iam	_	_	_	_	_	_	_
+4	diutius	diu	_	_	_	_	_	_	_
+5	non	non	_	_	_	_	_	_	_
+6	potes	possum	_	_	_	_	_	_	_
+7	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_79
+# text = non feram , non patiar , non sinam. [11 ] Magna dis inmortalibus habenda est atque huic ipsi Iovi Statori , antiquissimo custodi huius urbis , gratia , quod hanc tam taetram , tam horribilem tamque infestam rei publicae pestem totiens iam effugimus .
+1	non	non	_	_	_	_	_	_	_
+2	feram	fero	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	non	non	_	_	_	_	_	_	_
+5	patiar	patior	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	non	non	_	_	_	_	_	_	_
+8	sinam.	sino	_	_	_	_	_	_	_
+9	[11	[11	_	_	_	_	_	_	_
+10	]	]	_	_	_	_	_	_	_
+11	Magna	magnus	_	_	_	_	_	_	_
+12	dis	deus	_	_	_	_	_	_	_
+13	inmortalibus	immortalis	_	_	_	_	_	_	_
+14	habenda	habeo	_	_	_	_	_	_	_
+15	est	sum	_	_	_	_	_	_	_
+16	atque	atque	_	_	_	_	_	_	_
+17	huic	hic	_	_	_	_	_	_	_
+18	ipsi	ipse	_	_	_	_	_	_	_
+19	Iovi	Iuppiter	_	_	_	_	_	_	_
+20	Statori	Stator	_	_	_	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	antiquissimo	antiquus	_	_	_	_	_	_	_
+23	custodi	custos	_	_	_	_	_	_	_
+24	huius	hic	_	_	_	_	_	_	_
+25	urbis	urbs	_	_	_	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	gratia	gratia	_	_	_	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	quod	quod	_	_	_	_	_	_	_
+30	hanc	hic	_	_	_	_	_	_	_
+31	tam	tam	_	_	_	_	_	_	_
+32	taetram	teter	_	_	_	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	tam	tam	_	_	_	_	_	_	_
+35	horribilem	horribilis	_	_	_	_	_	_	_
+36	tamque	tam	_	_	_	_	_	_	_
+37	infestam	infestus	_	_	_	_	_	_	_
+38	rei	res	_	_	_	_	_	_	_
+39	publicae	publicus	_	_	_	_	_	_	_
+40	pestem	pestis	_	_	_	_	_	_	_
+41	totiens	totiens	_	_	_	_	_	_	_
+42	iam	iam	_	_	_	_	_	_	_
+43	effugimus	effugio	_	_	_	_	_	_	_
+44	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_80
+# text = Non est saepius in uno homine summa salus periclitanda rei publicae .
+1	Non	non	_	_	_	_	_	_	_
+2	est	sum	_	_	_	_	_	_	_
+3	saepius	saepe	_	_	_	_	_	_	_
+4	in	in	_	_	_	_	_	_	_
+5	uno	unus	_	_	_	_	_	_	_
+6	homine	homo	_	_	_	_	_	_	_
+7	summa	summus	_	_	_	_	_	_	_
+8	salus	salus	_	_	_	_	_	_	_
+9	periclitanda	periclitor	_	_	_	_	_	_	_
+10	rei	res	_	_	_	_	_	_	_
+11	publicae	publicus	_	_	_	_	_	_	_
+12	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_81
+# text = Quamdiu mihi consuli designato , Catilina , insidiatus es , non publico me praesidio , sed privata diligentia defendi .
+1	Quamdiu	quamdiu	_	_	_	_	_	_	_
+2	mihi	ego	_	_	_	_	_	_	_
+3	consuli	consul	_	_	_	_	_	_	_
+4	designato	designo	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Catilina	Catilina	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	insidiatus	insidior	_	_	_	_	_	_	_
+9	es	sum	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	non	non	_	_	_	_	_	_	_
+12	publico	publicus	_	_	_	_	_	_	_
+13	me	ego	_	_	_	_	_	_	_
+14	praesidio	praesidium	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	sed	sed	_	_	_	_	_	_	_
+17	privata	privatus	_	_	_	_	_	_	_
+18	diligentia	diligentia	_	_	_	_	_	_	_
+19	defendi	defendo	_	_	_	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_82
+# text = Cum proximis comitiis consularibus me consulem in campo et competitores tuos interficere voluisti , compressi conatus tuos nefarios amicorum praesidio et copiis nullo tumultu publice concitato ;
+1	Cum	cum	_	_	_	_	_	_	_
+2	proximis	proximus	_	_	_	_	_	_	_
+3	comitiis	comitia	_	_	_	_	_	_	_
+4	consularibus	consularis	_	_	_	_	_	_	_
+5	me	ego	_	_	_	_	_	_	_
+6	consulem	consul	_	_	_	_	_	_	_
+7	in	in	_	_	_	_	_	_	_
+8	campo	campus	_	_	_	_	_	_	_
+9	et	et	_	_	_	_	_	_	_
+10	competitores	competitor	_	_	_	_	_	_	_
+11	tuos	tuus	_	_	_	_	_	_	_
+12	interficere	interficio	_	_	_	_	_	_	_
+13	voluisti	volo	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	compressi	comprimo	_	_	_	_	_	_	_
+16	conatus	conatus	_	_	_	_	_	_	_
+17	tuos	tuus	_	_	_	_	_	_	_
+18	nefarios	nefarius	_	_	_	_	_	_	_
+19	amicorum	amicus	_	_	_	_	_	_	_
+20	praesidio	praesidium	_	_	_	_	_	_	_
+21	et	et	_	_	_	_	_	_	_
+22	copiis	copia	_	_	_	_	_	_	_
+23	nullo	nullus	_	_	_	_	_	_	_
+24	tumultu	tumultus	_	_	_	_	_	_	_
+25	publice	publice	_	_	_	_	_	_	_
+26	concitato	concito	_	_	_	_	_	_	_
+27	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_83
+# text = denique , quotienscumque me petisti , per me tibi obstiti , quamquam videbam perniciem meam cum magna calamitate rei publicae esse coniunctam . [12 ] Nunc iam aperte rem publicam universam petis , templa deorum inmortalium , tecta urbis , vitam omnium civium , Italiam [ denique ] totam ad exitium et vastitatem vocas .
+1	denique	denique	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	quotienscumque	quotienscumque	_	_	_	_	_	_	_
+4	me	ego	_	_	_	_	_	_	_
+5	petisti	peto	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	per	per	_	_	_	_	_	_	_
+8	me	ego	_	_	_	_	_	_	_
+9	tibi	tu	_	_	_	_	_	_	_
+10	obstiti	obsisto	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	quamquam	quamquam	_	_	_	_	_	_	_
+13	videbam	video	_	_	_	_	_	_	_
+14	perniciem	pernicies	_	_	_	_	_	_	_
+15	meam	meus	_	_	_	_	_	_	_
+16	cum	cum	_	_	_	_	_	_	_
+17	magna	magnus	_	_	_	_	_	_	_
+18	calamitate	calamitas	_	_	_	_	_	_	_
+19	rei	res	_	_	_	_	_	_	_
+20	publicae	publicus	_	_	_	_	_	_	_
+21	esse	sum	_	_	_	_	_	_	_
+22	coniunctam	coniungo	_	_	_	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+24	[12	[12	_	_	_	_	_	_	_
+25	]	]	_	_	_	_	_	_	_
+26	Nunc	nunc	_	_	_	_	_	_	_
+27	iam	iam	_	_	_	_	_	_	_
+28	aperte	aperte	_	_	_	_	_	_	_
+29	rem	res	_	_	_	_	_	_	_
+30	publicam	publicus	_	_	_	_	_	_	_
+31	universam	universus	_	_	_	_	_	_	_
+32	petis	peto	_	_	_	_	_	_	_
+33	,	,	_	_	_	_	_	_	_
+34	templa	templum	_	_	_	_	_	_	_
+35	deorum	deus	_	_	_	_	_	_	_
+36	inmortalium	immortalis	_	_	_	_	_	_	_
+37	,	,	_	_	_	_	_	_	_
+38	tecta	tectum	_	_	_	_	_	_	_
+39	urbis	urbs	_	_	_	_	_	_	_
+40	,	,	_	_	_	_	_	_	_
+41	vitam	vita	_	_	_	_	_	_	_
+42	omnium	omnis	_	_	_	_	_	_	_
+43	civium	civis	_	_	_	_	_	_	_
+44	,	,	_	_	_	_	_	_	_
+45	Italiam	Italia	_	_	_	_	_	_	_
+46	[	[	_	_	_	_	_	_	_
+47	denique	denique	_	_	_	_	_	_	_
+48	]	]	_	_	_	_	_	_	_
+49	totam	totus	_	_	_	_	_	_	_
+50	ad	ad	_	_	_	_	_	_	_
+51	exitium	exitium	_	_	_	_	_	_	_
+52	et	et	_	_	_	_	_	_	_
+53	vastitatem	vastitas	_	_	_	_	_	_	_
+54	vocas	voco	_	_	_	_	_	_	_
+55	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_84
+# text = Quare , quoniam id , quod est primum , et quod huius imperii disciplinaeque maiorum proprium est , facere nondum audeo , faciam id , quod est ad severitatem lenius et ad communem salutem utilius .
+1	Quare	quare	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	quoniam	quoniam	_	_	_	_	_	_	_
+4	id	is	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	quod	qui	_	_	_	_	_	_	_
+7	est	sum	_	_	_	_	_	_	_
+8	primum	primus	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	et	et	_	_	_	_	_	_	_
+11	quod	qui	_	_	_	_	_	_	_
+12	huius	hic	_	_	_	_	_	_	_
+13	imperii	imperium	_	_	_	_	_	_	_
+14	disciplinaeque	disciplina	_	_	_	_	_	_	_
+15	maiorum	maiores	_	_	_	_	_	_	_
+16	proprium	proprius	_	_	_	_	_	_	_
+17	est	sum	_	_	_	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	facere	facio	_	_	_	_	_	_	_
+20	nondum	nondum	_	_	_	_	_	_	_
+21	audeo	audeo	_	_	_	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	faciam	facio	_	_	_	_	_	_	_
+24	id	is	_	_	_	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	quod	qui	_	_	_	_	_	_	_
+27	est	sum	_	_	_	_	_	_	_
+28	ad	ad	_	_	_	_	_	_	_
+29	severitatem	severitas	_	_	_	_	_	_	_
+30	lenius	lenis	_	_	_	_	_	_	_
+31	et	et	_	_	_	_	_	_	_
+32	ad	ad	_	_	_	_	_	_	_
+33	communem	communis	_	_	_	_	_	_	_
+34	salutem	salus	_	_	_	_	_	_	_
+35	utilius	utilis	_	_	_	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_85
+# text = Nam si te interfici iussero , residebit in re publica reliqua coniuratorum manus ;
+1	Nam	nam	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	te	tu	_	_	_	_	_	_	_
+4	interfici	interficio	_	_	_	_	_	_	_
+5	iussero	iubeo	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	residebit	resideo	_	_	_	_	_	_	_
+8	in	in	_	_	_	_	_	_	_
+9	re	res	_	_	_	_	_	_	_
+10	publica	publicus	_	_	_	_	_	_	_
+11	reliqua	reliquus	_	_	_	_	_	_	_
+12	coniuratorum	coniuratus	_	_	_	_	_	_	_
+13	manus	manus	_	_	_	_	_	_	_
+14	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_86
+# text = sin tu , quod te iam dudum hortor , exieris , exhaurietur ex urbe tuorum comitum magna et perniciosa sentina rei publicae. [13 ] Quid est , Catilina ?
+1	sin	sin	_	_	_	_	_	_	_
+2	tu	tu	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	quod	qui	_	_	_	_	_	_	_
+5	te	tu	_	_	_	_	_	_	_
+6	iam	iam	_	_	_	_	_	_	_
+7	dudum	dudum	_	_	_	_	_	_	_
+8	hortor	hortor	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	exieris	exeo	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	exhaurietur	exhaurio	_	_	_	_	_	_	_
+13	ex	ex	_	_	_	_	_	_	_
+14	urbe	urbs	_	_	_	_	_	_	_
+15	tuorum	tuus	_	_	_	_	_	_	_
+16	comitum	comes	_	_	_	_	_	_	_
+17	magna	magnus	_	_	_	_	_	_	_
+18	et	et	_	_	_	_	_	_	_
+19	perniciosa	perniciosus	_	_	_	_	_	_	_
+20	sentina	sentina	_	_	_	_	_	_	_
+21	rei	res	_	_	_	_	_	_	_
+22	publicae.	publicus	_	_	_	_	_	_	_
+23	[13	[13	_	_	_	_	_	_	_
+24	]	]	_	_	_	_	_	_	_
+25	Quid	quis	_	_	_	_	_	_	_
+26	est	sum	_	_	_	_	_	_	_
+27	,	,	_	_	_	_	_	_	_
+28	Catilina	Catilina	_	_	_	_	_	_	_
+29	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_87
+# text = num dubitas id me imperante facere , quod iam tua sponte faciebas ?
+1	num	num	_	_	_	_	_	_	_
+2	dubitas	dubito	_	_	_	_	_	_	_
+3	id	is	_	_	_	_	_	_	_
+4	me	ego	_	_	_	_	_	_	_
+5	imperante	impero	_	_	_	_	_	_	_
+6	facere	facio	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	quod	qui	_	_	_	_	_	_	_
+9	iam	iam	_	_	_	_	_	_	_
+10	tua	tuus	_	_	_	_	_	_	_
+11	sponte	spons	_	_	_	_	_	_	_
+12	faciebas	facio	_	_	_	_	_	_	_
+13	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_88
+# text = Exire ex urbe iubet consul hostem .
+1	Exire	exeo	_	_	_	_	_	_	_
+2	ex	ex	_	_	_	_	_	_	_
+3	urbe	urbs	_	_	_	_	_	_	_
+4	iubet	iubeo	_	_	_	_	_	_	_
+5	consul	consul	_	_	_	_	_	_	_
+6	hostem	hostis	_	_	_	_	_	_	_
+7	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_89
+# text = Interrogas me , num in exilium ;
+1	Interrogas	interrogo	_	_	_	_	_	_	_
+2	me	ego	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	num	num	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	exilium	exilium	_	_	_	_	_	_	_
+7	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_90
+# text = non iubeo , sed , si me consulis , suadeo .
+1	non	non	_	_	_	_	_	_	_
+2	iubeo	iubeo	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	sed	sed	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	si	si	_	_	_	_	_	_	_
+7	me	ego	_	_	_	_	_	_	_
+8	consulis	consulo	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	suadeo	suadeo	_	_	_	_	_	_	_
+11	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_91
+# text = VI .
+1	VI	VI	_	_	_	_	_	_	_
+2	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_92
+# text = Quid est enim , Catilina , quod te iam in hac urbe delectare possit ?
+1	Quid	quis	_	_	_	_	_	_	_
+2	est	sum	_	_	_	_	_	_	_
+3	enim	enim	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	Catilina	Catilina	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	quod	qui	_	_	_	_	_	_	_
+8	te	tu	_	_	_	_	_	_	_
+9	iam	iam	_	_	_	_	_	_	_
+10	in	in	_	_	_	_	_	_	_
+11	hac	hic	_	_	_	_	_	_	_
+12	urbe	urbs	_	_	_	_	_	_	_
+13	delectare	delecto	_	_	_	_	_	_	_
+14	possit	possum	_	_	_	_	_	_	_
+15	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_93
+# text = in qua nemo est extra istam coniurationem perditorum hominum , qui te non metuat , nemo , qui non oderit .
+1	in	in	_	_	_	_	_	_	_
+2	qua	qui	_	_	_	_	_	_	_
+3	nemo	nemo	_	_	_	_	_	_	_
+4	est	sum	_	_	_	_	_	_	_
+5	extra	extra	_	_	_	_	_	_	_
+6	istam	iste	_	_	_	_	_	_	_
+7	coniurationem	coniuratio	_	_	_	_	_	_	_
+8	perditorum	perdo	_	_	_	_	_	_	_
+9	hominum	homo	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	qui	qui	_	_	_	_	_	_	_
+12	te	tu	_	_	_	_	_	_	_
+13	non	non	_	_	_	_	_	_	_
+14	metuat	metuo	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	nemo	nemo	_	_	_	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	qui	qui	_	_	_	_	_	_	_
+19	non	non	_	_	_	_	_	_	_
+20	oderit	odi	_	_	_	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_94
+# text = Quae nota domesticae turpitudinis non inusta vitae tuae est ?
+1	Quae	qui	_	_	_	_	_	_	_
+2	nota	nota	_	_	_	_	_	_	_
+3	domesticae	domesticus	_	_	_	_	_	_	_
+4	turpitudinis	turpitudo	_	_	_	_	_	_	_
+5	non	non	_	_	_	_	_	_	_
+6	inusta	inuro	_	_	_	_	_	_	_
+7	vitae	vita	_	_	_	_	_	_	_
+8	tuae	tuus	_	_	_	_	_	_	_
+9	est	sum	_	_	_	_	_	_	_
+10	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_95
+# text = quod privatarum rerum dedecus non haeret in fama ?
+1	quod	qui	_	_	_	_	_	_	_
+2	privatarum	privatus	_	_	_	_	_	_	_
+3	rerum	res	_	_	_	_	_	_	_
+4	dedecus	dedecus	_	_	_	_	_	_	_
+5	non	non	_	_	_	_	_	_	_
+6	haeret	haereo	_	_	_	_	_	_	_
+7	in	in	_	_	_	_	_	_	_
+8	fama	fama	_	_	_	_	_	_	_
+9	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_96
+# text = quae lubido ab oculis , quod facinus a manibus umquam tuis , quod flagitium a toto corpore afuit ?
+1	quae	qui	_	_	_	_	_	_	_
+2	lubido	libido	_	_	_	_	_	_	_
+3	ab	ab	_	_	_	_	_	_	_
+4	oculis	oculus	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	quod	qui	_	_	_	_	_	_	_
+7	facinus	facinus	_	_	_	_	_	_	_
+8	a	a	_	_	_	_	_	_	_
+9	manibus	manus	_	_	_	_	_	_	_
+10	umquam	umquam	_	_	_	_	_	_	_
+11	tuis	tuus	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	quod	qui	_	_	_	_	_	_	_
+14	flagitium	flagitium	_	_	_	_	_	_	_
+15	a	a	_	_	_	_	_	_	_
+16	toto	totus	_	_	_	_	_	_	_
+17	corpore	corpus	_	_	_	_	_	_	_
+18	afuit	absum	_	_	_	_	_	_	_
+19	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_97
+# text = cui tu adulescentulo , quem corruptelarum inlecebris inretisses , non aut ad audaciam ferrum aut ad lubidinem facem praetulisti? [14 ]
+1	cui	qui	_	_	_	_	_	_	_
+2	tu	tu	_	_	_	_	_	_	_
+3	adulescentulo	adulescentulus	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	quem	qui	_	_	_	_	_	_	_
+6	corruptelarum	corruptela	_	_	_	_	_	_	_
+7	inlecebris	illecebra	_	_	_	_	_	_	_
+8	inretisses	irretio	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	non	non	_	_	_	_	_	_	_
+11	aut	aut	_	_	_	_	_	_	_
+12	ad	ad	_	_	_	_	_	_	_
+13	audaciam	audacia	_	_	_	_	_	_	_
+14	ferrum	ferrum	_	_	_	_	_	_	_
+15	aut	aut	_	_	_	_	_	_	_
+16	ad	ad	_	_	_	_	_	_	_
+17	lubidinem	libido	_	_	_	_	_	_	_
+18	facem	fax	_	_	_	_	_	_	_
+19	praetulisti?	praefero	_	_	_	_	_	_	_
+20	[14	[14	_	_	_	_	_	_	_
+21	]	]	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_98
+# text = Quid vero ?
+1	Quid	quis	_	_	_	_	_	_	_
+2	vero	vero	_	_	_	_	_	_	_
+3	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_99
+# text = nuper cum morte superioris uxoris novis nuptiis domum vacuefecisses , nonne etiam alio incredibili scelere hoc scelus cumulasti ?
+1	nuper	nuper	_	_	_	_	_	_	_
+2	cum	cum	_	_	_	_	_	_	_
+3	morte	mors	_	_	_	_	_	_	_
+4	superioris	superus	_	_	_	_	_	_	_
+5	uxoris	uxor	_	_	_	_	_	_	_
+6	novis	novus	_	_	_	_	_	_	_
+7	nuptiis	nuptiae	_	_	_	_	_	_	_
+8	domum	domus	_	_	_	_	_	_	_
+9	vacuefecisses	vacuefacio	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	nonne	nonne	_	_	_	_	_	_	_
+12	etiam	etiam	_	_	_	_	_	_	_
+13	alio	alius	_	_	_	_	_	_	_
+14	incredibili	incredibilis	_	_	_	_	_	_	_
+15	scelere	scelus	_	_	_	_	_	_	_
+16	hoc	hic	_	_	_	_	_	_	_
+17	scelus	scelus	_	_	_	_	_	_	_
+18	cumulasti	cumulo	_	_	_	_	_	_	_
+19	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_100
+# text = quod ego praetermitto et facile patior sileri , ne in hac civitate tanti facinoris inmanitas aut extitisse aut non vindicata esse videatur .
+1	quod	qui	_	_	_	_	_	_	_
+2	ego	ego	_	_	_	_	_	_	_
+3	praetermitto	praetermitto	_	_	_	_	_	_	_
+4	et	et	_	_	_	_	_	_	_
+5	facile	facile	_	_	_	_	_	_	_
+6	patior	patior	_	_	_	_	_	_	_
+7	sileri	sileo	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	ne	ne	_	_	_	_	_	_	_
+10	in	in	_	_	_	_	_	_	_
+11	hac	hic	_	_	_	_	_	_	_
+12	civitate	civitas	_	_	_	_	_	_	_
+13	tanti	tantus	_	_	_	_	_	_	_
+14	facinoris	facinus	_	_	_	_	_	_	_
+15	inmanitas	immanitas	_	_	_	_	_	_	_
+16	aut	aut	_	_	_	_	_	_	_
+17	extitisse	exsisto	_	_	_	_	_	_	_
+18	aut	aut	_	_	_	_	_	_	_
+19	non	non	_	_	_	_	_	_	_
+20	vindicata	vindico	_	_	_	_	_	_	_
+21	esse	sum	_	_	_	_	_	_	_
+22	videatur	video	_	_	_	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_101
+# text = Praetermitto ruinas fortunarum tuarum , quas omnis inpendere tibi proxumis Idibus senties ;
+1	Praetermitto	praetermitto	_	_	_	_	_	_	_
+2	ruinas	ruina	_	_	_	_	_	_	_
+3	fortunarum	fortuna	_	_	_	_	_	_	_
+4	tuarum	tuus	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	quas	qui	_	_	_	_	_	_	_
+7	omnis	omnis	_	_	_	_	_	_	_
+8	inpendere	impendeo	_	_	_	_	_	_	_
+9	tibi	tu	_	_	_	_	_	_	_
+10	proxumis	proximus	_	_	_	_	_	_	_
+11	Idibus	Idus	_	_	_	_	_	_	_
+12	senties	sentio	_	_	_	_	_	_	_
+13	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_102
+# text = ad illa venio , quae non ad privatam ignominiam vitiorum tuorum , non ad domesticam tuam difficultatem ac turpitudinem sed ad summam rem publicam atque ad omnium nostrum vitam salutemque pertinent. [15 ]
+1	ad	ad	_	_	_	_	_	_	_
+2	illa	ille	_	_	_	_	_	_	_
+3	venio	venio	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	quae	qui	_	_	_	_	_	_	_
+6	non	non	_	_	_	_	_	_	_
+7	ad	ad	_	_	_	_	_	_	_
+8	privatam	privatus	_	_	_	_	_	_	_
+9	ignominiam	ignominia	_	_	_	_	_	_	_
+10	vitiorum	vitium	_	_	_	_	_	_	_
+11	tuorum	tuus	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	non	non	_	_	_	_	_	_	_
+14	ad	ad	_	_	_	_	_	_	_
+15	domesticam	domesticus	_	_	_	_	_	_	_
+16	tuam	tuus	_	_	_	_	_	_	_
+17	difficultatem	difficultas	_	_	_	_	_	_	_
+18	ac	ac	_	_	_	_	_	_	_
+19	turpitudinem	turpitudo	_	_	_	_	_	_	_
+20	sed	sed	_	_	_	_	_	_	_
+21	ad	ad	_	_	_	_	_	_	_
+22	summam	summus	_	_	_	_	_	_	_
+23	rem	res	_	_	_	_	_	_	_
+24	publicam	publicus	_	_	_	_	_	_	_
+25	atque	atque	_	_	_	_	_	_	_
+26	ad	ad	_	_	_	_	_	_	_
+27	omnium	omnis	_	_	_	_	_	_	_
+28	nostrum	nos	_	_	_	_	_	_	_
+29	vitam	vita	_	_	_	_	_	_	_
+30	salutemque	salus	_	_	_	_	_	_	_
+31	pertinent.	pertineo	_	_	_	_	_	_	_
+32	[15	[15	_	_	_	_	_	_	_
+33	]	]	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_103
+# text = Potestne tibi haec lux , Catilina , aut huius caeli spiritus esse iucundus , cum scias esse horum neminem , qui nesciat te pridie Kalendas Ianuarias Lepido et Tullo consulibus stetisse in comitio cum telo , manum consulum et principum civitatis interficiendorum causa paravisse , sceleri ac furori tuo non mentem aliquam aut timorem tuum sed fortunam populi Romani obstitisse ?
+1	Potestne	possum	_	_	_	_	_	_	_
+2	tibi	tu	_	_	_	_	_	_	_
+3	haec	hic	_	_	_	_	_	_	_
+4	lux	lux	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	Catilina	Catilina	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	aut	aut	_	_	_	_	_	_	_
+9	huius	hic	_	_	_	_	_	_	_
+10	caeli	caelum	_	_	_	_	_	_	_
+11	spiritus	spiritus	_	_	_	_	_	_	_
+12	esse	sum	_	_	_	_	_	_	_
+13	iucundus	iucundus	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	cum	cum	_	_	_	_	_	_	_
+16	scias	scio	_	_	_	_	_	_	_
+17	esse	sum	_	_	_	_	_	_	_
+18	horum	hic	_	_	_	_	_	_	_
+19	neminem	nemo	_	_	_	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	qui	qui	_	_	_	_	_	_	_
+22	nesciat	nescio	_	_	_	_	_	_	_
+23	te	tu	_	_	_	_	_	_	_
+24	pridie	pridie	_	_	_	_	_	_	_
+25	Kalendas	Kalendae	_	_	_	_	_	_	_
+26	Ianuarias	Ianuarius	_	_	_	_	_	_	_
+27	Lepido	Lepidus	_	_	_	_	_	_	_
+28	et	et	_	_	_	_	_	_	_
+29	Tullo	Tullus	_	_	_	_	_	_	_
+30	consulibus	consul	_	_	_	_	_	_	_
+31	stetisse	sto	_	_	_	_	_	_	_
+32	in	in	_	_	_	_	_	_	_
+33	comitio	comitium	_	_	_	_	_	_	_
+34	cum	cum	_	_	_	_	_	_	_
+35	telo	telum	_	_	_	_	_	_	_
+36	,	,	_	_	_	_	_	_	_
+37	manum	manus	_	_	_	_	_	_	_
+38	consulum	consul	_	_	_	_	_	_	_
+39	et	et	_	_	_	_	_	_	_
+40	principum	princeps	_	_	_	_	_	_	_
+41	civitatis	civitas	_	_	_	_	_	_	_
+42	interficiendorum	interficio	_	_	_	_	_	_	_
+43	causa	causa	_	_	_	_	_	_	_
+44	paravisse	paro	_	_	_	_	_	_	_
+45	,	,	_	_	_	_	_	_	_
+46	sceleri	scelus	_	_	_	_	_	_	_
+47	ac	ac	_	_	_	_	_	_	_
+48	furori	furor	_	_	_	_	_	_	_
+49	tuo	tuus	_	_	_	_	_	_	_
+50	non	non	_	_	_	_	_	_	_
+51	mentem	mens	_	_	_	_	_	_	_
+52	aliquam	aliquis	_	_	_	_	_	_	_
+53	aut	aut	_	_	_	_	_	_	_
+54	timorem	timor	_	_	_	_	_	_	_
+55	tuum	tuus	_	_	_	_	_	_	_
+56	sed	sed	_	_	_	_	_	_	_
+57	fortunam	fortuna	_	_	_	_	_	_	_
+58	populi	populus	_	_	_	_	_	_	_
+59	Romani	Romanus	_	_	_	_	_	_	_
+60	obstitisse	obsto	_	_	_	_	_	_	_
+61	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_104
+# text = Ac iam illa omitto--neque enim sunt aut obscura aut non multa commissa postea--quotiens tu me designatum , quotiens consulem interficere conatus es! quot ego tuas petitiones ita coniectas , ut vitari posse non viderentur , parva quadam declinatione et , ut aiunt , corpore effugi! nihil [agis , nihil ] adsequeris [ , nihil moliris ] neque tamen conari ac velle desistis. [16 ]
+1	Ac	ac	_	_	_	_	_	_	_
+2	iam	iam	_	_	_	_	_	_	_
+3	illa	ille	_	_	_	_	_	_	_
+4	omitto--neque	omitto--neque	_	_	_	_	_	_	_
+5	enim	enim	_	_	_	_	_	_	_
+6	sunt	sum	_	_	_	_	_	_	_
+7	aut	aut	_	_	_	_	_	_	_
+8	obscura	obscurus	_	_	_	_	_	_	_
+9	aut	aut	_	_	_	_	_	_	_
+10	non	non	_	_	_	_	_	_	_
+11	multa	multus	_	_	_	_	_	_	_
+12	commissa	committo	_	_	_	_	_	_	_
+13	postea--quotiens	postea--quotiens	_	_	_	_	_	_	_
+14	tu	tu	_	_	_	_	_	_	_
+15	me	ego	_	_	_	_	_	_	_
+16	designatum	designo	_	_	_	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	quotiens	quotiens	_	_	_	_	_	_	_
+19	consulem	consul	_	_	_	_	_	_	_
+20	interficere	interficio	_	_	_	_	_	_	_
+21	conatus	conor	_	_	_	_	_	_	_
+22	es!	sum	_	_	_	_	_	_	_
+23	quot	quot	_	_	_	_	_	_	_
+24	ego	ego	_	_	_	_	_	_	_
+25	tuas	tuus	_	_	_	_	_	_	_
+26	petitiones	petitio	_	_	_	_	_	_	_
+27	ita	ita	_	_	_	_	_	_	_
+28	coniectas	conicio	_	_	_	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	ut	ut	_	_	_	_	_	_	_
+31	vitari	vito	_	_	_	_	_	_	_
+32	posse	possum	_	_	_	_	_	_	_
+33	non	non	_	_	_	_	_	_	_
+34	viderentur	video	_	_	_	_	_	_	_
+35	,	,	_	_	_	_	_	_	_
+36	parva	parvus	_	_	_	_	_	_	_
+37	quadam	quidam	_	_	_	_	_	_	_
+38	declinatione	declinatio	_	_	_	_	_	_	_
+39	et	et	_	_	_	_	_	_	_
+40	,	,	_	_	_	_	_	_	_
+41	ut	ut	_	_	_	_	_	_	_
+42	aiunt	aio	_	_	_	_	_	_	_
+43	,	,	_	_	_	_	_	_	_
+44	corpore	corpus	_	_	_	_	_	_	_
+45	effugi!	effugio	_	_	_	_	_	_	_
+46	nihil	nihil	_	_	_	_	_	_	_
+47	[agis	ago	_	_	_	_	_	_	_
+48	,	,	_	_	_	_	_	_	_
+49	nihil	nihil	_	_	_	_	_	_	_
+50	]	]	_	_	_	_	_	_	_
+51	adsequeris	assequor	_	_	_	_	_	_	_
+52	[	[	_	_	_	_	_	_	_
+53	,	,	_	_	_	_	_	_	_
+54	nihil	nihil	_	_	_	_	_	_	_
+55	moliris	molior	_	_	_	_	_	_	_
+56	]	]	_	_	_	_	_	_	_
+57	neque	neque	_	_	_	_	_	_	_
+58	tamen	tamen	_	_	_	_	_	_	_
+59	conari	conor	_	_	_	_	_	_	_
+60	ac	ac	_	_	_	_	_	_	_
+61	velle	volo	_	_	_	_	_	_	_
+62	desistis.	desisto	_	_	_	_	_	_	_
+63	[16	[16	_	_	_	_	_	_	_
+64	]	]	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_105
+# text = Quotiens tibi iam extorta est ista sica de manibus , quotiens [ vero ] excidit casu aliquo et elapsa est ! [ tamen ea carere diutius non potes ] quae quidem quibus abs te initiata sacris ac devota sit , nescio , quod eam necesse putas esse in consulis corpore defigere .
+1	Quotiens	quotiens	_	_	_	_	_	_	_
+2	tibi	tu	_	_	_	_	_	_	_
+3	iam	iam	_	_	_	_	_	_	_
+4	extorta	extorqueo	_	_	_	_	_	_	_
+5	est	sum	_	_	_	_	_	_	_
+6	ista	iste	_	_	_	_	_	_	_
+7	sica	sica	_	_	_	_	_	_	_
+8	de	de	_	_	_	_	_	_	_
+9	manibus	manus	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	quotiens	quotiens	_	_	_	_	_	_	_
+12	[	[	_	_	_	_	_	_	_
+13	vero	vero	_	_	_	_	_	_	_
+14	]	]	_	_	_	_	_	_	_
+15	excidit	excido	_	_	_	_	_	_	_
+16	casu	casus	_	_	_	_	_	_	_
+17	aliquo	aliquis	_	_	_	_	_	_	_
+18	et	et	_	_	_	_	_	_	_
+19	elapsa	elabor	_	_	_	_	_	_	_
+20	est	sum	_	_	_	_	_	_	_
+21	!	!	_	_	_	_	_	_	_
+22	[	[	_	_	_	_	_	_	_
+23	tamen	tamen	_	_	_	_	_	_	_
+24	ea	is	_	_	_	_	_	_	_
+25	carere	careo	_	_	_	_	_	_	_
+26	diutius	diu	_	_	_	_	_	_	_
+27	non	non	_	_	_	_	_	_	_
+28	potes	possum	_	_	_	_	_	_	_
+29	]	]	_	_	_	_	_	_	_
+30	quae	qui	_	_	_	_	_	_	_
+31	quidem	quidem	_	_	_	_	_	_	_
+32	quibus	qui	_	_	_	_	_	_	_
+33	abs	ab	_	_	_	_	_	_	_
+34	te	tu	_	_	_	_	_	_	_
+35	initiata	initio	_	_	_	_	_	_	_
+36	sacris	sacrum	_	_	_	_	_	_	_
+37	ac	ac	_	_	_	_	_	_	_
+38	devota	devoveo	_	_	_	_	_	_	_
+39	sit	sum	_	_	_	_	_	_	_
+40	,	,	_	_	_	_	_	_	_
+41	nescio	nescio	_	_	_	_	_	_	_
+42	,	,	_	_	_	_	_	_	_
+43	quod	quod	_	_	_	_	_	_	_
+44	eam	is	_	_	_	_	_	_	_
+45	necesse	necesse	_	_	_	_	_	_	_
+46	putas	puto	_	_	_	_	_	_	_
+47	esse	sum	_	_	_	_	_	_	_
+48	in	in	_	_	_	_	_	_	_
+49	consulis	consul	_	_	_	_	_	_	_
+50	corpore	corpus	_	_	_	_	_	_	_
+51	defigere	defigo	_	_	_	_	_	_	_
+52	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_106
+# text = VII .
+1	VII	VII	_	_	_	_	_	_	_
+2	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_107
+# text = Nunc vero quae tua est ista vita ?
+1	Nunc	nunc	_	_	_	_	_	_	_
+2	vero	vero	_	_	_	_	_	_	_
+3	quae	qui	_	_	_	_	_	_	_
+4	tua	tuus	_	_	_	_	_	_	_
+5	est	sum	_	_	_	_	_	_	_
+6	ista	iste	_	_	_	_	_	_	_
+7	vita	vita	_	_	_	_	_	_	_
+8	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_108
+# text = Sic enim iam tecum loquar , non ut odio permotus esse videar , quo debeo , sed ut misericordia , quae tibi nulla debetur .
+1	Sic	sic	_	_	_	_	_	_	_
+2	enim	enim	_	_	_	_	_	_	_
+3	iam	iam	_	_	_	_	_	_	_
+4	tecum	tu	_	_	_	_	_	_	_
+5	loquar	loquor	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	non	non	_	_	_	_	_	_	_
+8	ut	ut	_	_	_	_	_	_	_
+9	odio	odium	_	_	_	_	_	_	_
+10	permotus	permoveo	_	_	_	_	_	_	_
+11	esse	sum	_	_	_	_	_	_	_
+12	videar	video	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	quo	qui	_	_	_	_	_	_	_
+15	debeo	debeo	_	_	_	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	sed	sed	_	_	_	_	_	_	_
+18	ut	ut	_	_	_	_	_	_	_
+19	misericordia	misericordia	_	_	_	_	_	_	_
+20	,	,	_	_	_	_	_	_	_
+21	quae	qui	_	_	_	_	_	_	_
+22	tibi	tu	_	_	_	_	_	_	_
+23	nulla	nullus	_	_	_	_	_	_	_
+24	debetur	debeo	_	_	_	_	_	_	_
+25	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_109
+# text = Venisti paulo ante in senatum .
+1	Venisti	venio	_	_	_	_	_	_	_
+2	paulo	paulo	_	_	_	_	_	_	_
+3	ante	ante	_	_	_	_	_	_	_
+4	in	in	_	_	_	_	_	_	_
+5	senatum	senatus	_	_	_	_	_	_	_
+6	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_110
+# text = Quis te ex hac tanta frequentia totque tuis amicis ac necessariis salutavit ?
+1	Quis	quis	_	_	_	_	_	_	_
+2	te	tu	_	_	_	_	_	_	_
+3	ex	ex	_	_	_	_	_	_	_
+4	hac	hic	_	_	_	_	_	_	_
+5	tanta	tantus	_	_	_	_	_	_	_
+6	frequentia	frequentia	_	_	_	_	_	_	_
+7	totque	tot	_	_	_	_	_	_	_
+8	tuis	tuus	_	_	_	_	_	_	_
+9	amicis	amicus	_	_	_	_	_	_	_
+10	ac	ac	_	_	_	_	_	_	_
+11	necessariis	necessarius	_	_	_	_	_	_	_
+12	salutavit	saluto	_	_	_	_	_	_	_
+13	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_111
+# text = Si hoc post hominum memoriam contigit nemini , vocis expectas contumeliam , cum sis gravissimo iudicio taciturnitatis oppressus ?
+1	Si	si	_	_	_	_	_	_	_
+2	hoc	hic	_	_	_	_	_	_	_
+3	post	post	_	_	_	_	_	_	_
+4	hominum	homo	_	_	_	_	_	_	_
+5	memoriam	memoria	_	_	_	_	_	_	_
+6	contigit	contingo	_	_	_	_	_	_	_
+7	nemini	nemo	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	vocis	vox	_	_	_	_	_	_	_
+10	expectas	exspecto	_	_	_	_	_	_	_
+11	contumeliam	contumelia	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	cum	cum	_	_	_	_	_	_	_
+14	sis	sum	_	_	_	_	_	_	_
+15	gravissimo	gravis	_	_	_	_	_	_	_
+16	iudicio	iudicium	_	_	_	_	_	_	_
+17	taciturnitatis	taciturnitas	_	_	_	_	_	_	_
+18	oppressus	opprimo	_	_	_	_	_	_	_
+19	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_112
+# text = Quid , quod adventu tuo ista subsellia vacuefacta sunt , quod omnes consulares , qui tibi persaepe ad caedem constituti fuerunt , simul atque adsedisti , partem istam subselliorum nudam atque inanem reliquerunt , quo tandem animo [hoc ] tibi ferundum putas? [ 17 ] Servi mehercule mei si me isto pacto metuerent , ut te metuunt omnes cives tui , domum meam relinquendam putarem ;
+1	Quid	quis	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	quod	quod	_	_	_	_	_	_	_
+4	adventu	adventus	_	_	_	_	_	_	_
+5	tuo	tuus	_	_	_	_	_	_	_
+6	ista	iste	_	_	_	_	_	_	_
+7	subsellia	subsellium	_	_	_	_	_	_	_
+8	vacuefacta	vacuefacio	_	_	_	_	_	_	_
+9	sunt	sum	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	quod	quod	_	_	_	_	_	_	_
+12	omnes	omnis	_	_	_	_	_	_	_
+13	consulares	consularis	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	qui	qui	_	_	_	_	_	_	_
+16	tibi	tu	_	_	_	_	_	_	_
+17	persaepe	persaepe	_	_	_	_	_	_	_
+18	ad	ad	_	_	_	_	_	_	_
+19	caedem	caedes	_	_	_	_	_	_	_
+20	constituti	constituo	_	_	_	_	_	_	_
+21	fuerunt	sum	_	_	_	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	simul	simul	_	_	_	_	_	_	_
+24	atque	atque	_	_	_	_	_	_	_
+25	adsedisti	assido	_	_	_	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	partem	pars	_	_	_	_	_	_	_
+28	istam	iste	_	_	_	_	_	_	_
+29	subselliorum	subsellium	_	_	_	_	_	_	_
+30	nudam	nudus	_	_	_	_	_	_	_
+31	atque	atque	_	_	_	_	_	_	_
+32	inanem	inanis	_	_	_	_	_	_	_
+33	reliquerunt	relinquo	_	_	_	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	quo	qui	_	_	_	_	_	_	_
+36	tandem	tandem	_	_	_	_	_	_	_
+37	animo	animus	_	_	_	_	_	_	_
+38	[hoc	hic	_	_	_	_	_	_	_
+39	]	]	_	_	_	_	_	_	_
+40	tibi	tu	_	_	_	_	_	_	_
+41	ferundum	fero	_	_	_	_	_	_	_
+42	putas?	puto	_	_	_	_	_	_	_
+43	[	[	_	_	_	_	_	_	_
+44	17	17	_	_	_	_	_	_	_
+45	]	]	_	_	_	_	_	_	_
+46	Servi	servus	_	_	_	_	_	_	_
+47	mehercule	mehercule	_	_	_	_	_	_	_
+48	mei	meus	_	_	_	_	_	_	_
+49	si	si	_	_	_	_	_	_	_
+50	me	ego	_	_	_	_	_	_	_
+51	isto	iste	_	_	_	_	_	_	_
+52	pacto	pactum	_	_	_	_	_	_	_
+53	metuerent	metuo	_	_	_	_	_	_	_
+54	,	,	_	_	_	_	_	_	_
+55	ut	ut	_	_	_	_	_	_	_
+56	te	tu	_	_	_	_	_	_	_
+57	metuunt	metuo	_	_	_	_	_	_	_
+58	omnes	omnis	_	_	_	_	_	_	_
+59	cives	civis	_	_	_	_	_	_	_
+60	tui	tuus	_	_	_	_	_	_	_
+61	,	,	_	_	_	_	_	_	_
+62	domum	domus	_	_	_	_	_	_	_
+63	meam	meus	_	_	_	_	_	_	_
+64	relinquendam	relinquo	_	_	_	_	_	_	_
+65	putarem	puto	_	_	_	_	_	_	_
+66	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_113
+# text = tu tibi urbem non arbitraris ?
+1	tu	tu	_	_	_	_	_	_	_
+2	tibi	tu	_	_	_	_	_	_	_
+3	urbem	urbs	_	_	_	_	_	_	_
+4	non	non	_	_	_	_	_	_	_
+5	arbitraris	arbitror	_	_	_	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_114
+# text = et , si me meis civibus iniuria suspectum tam graviter atque offensum viderem , carere me aspectu civium quam infestis omnium oculis conspici mallem ;
+1	et	et	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	me	ego	_	_	_	_	_	_	_
+5	meis	meus	_	_	_	_	_	_	_
+6	civibus	civis	_	_	_	_	_	_	_
+7	iniuria	iniuria	_	_	_	_	_	_	_
+8	suspectum	suspicio	_	_	_	_	_	_	_
+9	tam	tam	_	_	_	_	_	_	_
+10	graviter	graviter	_	_	_	_	_	_	_
+11	atque	atque	_	_	_	_	_	_	_
+12	offensum	offendo	_	_	_	_	_	_	_
+13	viderem	video	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	carere	careo	_	_	_	_	_	_	_
+16	me	ego	_	_	_	_	_	_	_
+17	aspectu	aspectus	_	_	_	_	_	_	_
+18	civium	civis	_	_	_	_	_	_	_
+19	quam	quam	_	_	_	_	_	_	_
+20	infestis	infestus	_	_	_	_	_	_	_
+21	omnium	omnis	_	_	_	_	_	_	_
+22	oculis	oculus	_	_	_	_	_	_	_
+23	conspici	conspicio	_	_	_	_	_	_	_
+24	mallem	malo	_	_	_	_	_	_	_
+25	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_115
+# text = tu cum conscientia scelerum tuorum agnoscas odium omnium iustum et iam diu tibi debitum , dubitas , quorum mentes sensusque volneras , eorum aspectum praesentiamque vitare ?
+1	tu	tu	_	_	_	_	_	_	_
+2	cum	cum	_	_	_	_	_	_	_
+3	conscientia	conscientia	_	_	_	_	_	_	_
+4	scelerum	scelus	_	_	_	_	_	_	_
+5	tuorum	tuus	_	_	_	_	_	_	_
+6	agnoscas	agnosco	_	_	_	_	_	_	_
+7	odium	odium	_	_	_	_	_	_	_
+8	omnium	omnis	_	_	_	_	_	_	_
+9	iustum	iustus	_	_	_	_	_	_	_
+10	et	et	_	_	_	_	_	_	_
+11	iam	iam	_	_	_	_	_	_	_
+12	diu	diu	_	_	_	_	_	_	_
+13	tibi	tu	_	_	_	_	_	_	_
+14	debitum	debeo	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	dubitas	dubito	_	_	_	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	quorum	qui	_	_	_	_	_	_	_
+19	mentes	mens	_	_	_	_	_	_	_
+20	sensusque	sensus	_	_	_	_	_	_	_
+21	volneras	vulnero	_	_	_	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	eorum	is	_	_	_	_	_	_	_
+24	aspectum	aspectus	_	_	_	_	_	_	_
+25	praesentiamque	praesentia	_	_	_	_	_	_	_
+26	vitare	vito	_	_	_	_	_	_	_
+27	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_116
+# text = Si te parentes timerent atque odissent tui neque eos ulla ratione placare posses , ut opinor , ab eorum oculis aliquo concederes .
+1	Si	si	_	_	_	_	_	_	_
+2	te	tu	_	_	_	_	_	_	_
+3	parentes	parens	_	_	_	_	_	_	_
+4	timerent	timeo	_	_	_	_	_	_	_
+5	atque	atque	_	_	_	_	_	_	_
+6	odissent	odi	_	_	_	_	_	_	_
+7	tui	tuus	_	_	_	_	_	_	_
+8	neque	neque	_	_	_	_	_	_	_
+9	eos	is	_	_	_	_	_	_	_
+10	ulla	ullus	_	_	_	_	_	_	_
+11	ratione	ratio	_	_	_	_	_	_	_
+12	placare	placo	_	_	_	_	_	_	_
+13	posses	possum	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	ut	ut	_	_	_	_	_	_	_
+16	opinor	opinor	_	_	_	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	ab	ab	_	_	_	_	_	_	_
+19	eorum	is	_	_	_	_	_	_	_
+20	oculis	oculus	_	_	_	_	_	_	_
+21	aliquo	aliquo	_	_	_	_	_	_	_
+22	concederes	concedo	_	_	_	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_117
+# text = Nunc te patria , quae communis est parens omnium nostrum , odit ac metuit et iam diu nihil te iudicat nisi de parricidio suo cogitare ;
+1	Nunc	nunc	_	_	_	_	_	_	_
+2	te	tu	_	_	_	_	_	_	_
+3	patria	patria	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	quae	qui	_	_	_	_	_	_	_
+6	communis	communis	_	_	_	_	_	_	_
+7	est	sum	_	_	_	_	_	_	_
+8	parens	parens	_	_	_	_	_	_	_
+9	omnium	omnis	_	_	_	_	_	_	_
+10	nostrum	nos	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	odit	odi	_	_	_	_	_	_	_
+13	ac	ac	_	_	_	_	_	_	_
+14	metuit	metuo	_	_	_	_	_	_	_
+15	et	et	_	_	_	_	_	_	_
+16	iam	iam	_	_	_	_	_	_	_
+17	diu	diu	_	_	_	_	_	_	_
+18	nihil	nihil	_	_	_	_	_	_	_
+19	te	tu	_	_	_	_	_	_	_
+20	iudicat	iudico	_	_	_	_	_	_	_
+21	nisi	nisi	_	_	_	_	_	_	_
+22	de	de	_	_	_	_	_	_	_
+23	parricidio	parricidium	_	_	_	_	_	_	_
+24	suo	suus	_	_	_	_	_	_	_
+25	cogitare	cogito	_	_	_	_	_	_	_
+26	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_118
+# text = huius tu neque auctoritatem verebere nec iudicium sequere nec vim pertimesces? [18 ] Quae tecum , Catilina , sic agit et quodam modo tacita loquitur :
+1	huius	hic	_	_	_	_	_	_	_
+2	tu	tu	_	_	_	_	_	_	_
+3	neque	neque	_	_	_	_	_	_	_
+4	auctoritatem	auctoritas	_	_	_	_	_	_	_
+5	verebere	vereor	_	_	_	_	_	_	_
+6	nec	nec	_	_	_	_	_	_	_
+7	iudicium	iudicium	_	_	_	_	_	_	_
+8	sequere	sequor	_	_	_	_	_	_	_
+9	nec	nec	_	_	_	_	_	_	_
+10	vim	vis	_	_	_	_	_	_	_
+11	pertimesces?	pertimesco	_	_	_	_	_	_	_
+12	[18	[18	_	_	_	_	_	_	_
+13	]	]	_	_	_	_	_	_	_
+14	Quae	qui	_	_	_	_	_	_	_
+15	tecum	tu	_	_	_	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	Catilina	Catilina	_	_	_	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	sic	sic	_	_	_	_	_	_	_
+20	agit	ago	_	_	_	_	_	_	_
+21	et	et	_	_	_	_	_	_	_
+22	quodam	quidam	_	_	_	_	_	_	_
+23	modo	modus	_	_	_	_	_	_	_
+24	tacita	tacitus	_	_	_	_	_	_	_
+25	loquitur	loquor	_	_	_	_	_	_	_
+26	:	:	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_119
+# text = "Nullum iam aliquot annis facinus exstitit nisi per te , nullum flagitium sine te ;
+1	"Nullum	"	_	_	_	_	_	_	_
+2	iam	nullus	_	_	_	_	_	_	_
+3	aliquot	iam	_	_	_	_	_	_	_
+4	annis	aliquot	_	_	_	_	_	_	_
+5	facinus	annus	_	_	_	_	_	_	_
+6	exstitit	facinus	_	_	_	_	_	_	_
+7	nisi	exsisto	_	_	_	_	_	_	_
+8	per	nisi	_	_	_	_	_	_	_
+9	te	per	_	_	_	_	_	_	_
+10	,	tu	_	_	_	_	_	_	_
+11	nullum	,	_	_	_	_	_	_	_
+12	flagitium	nullus	_	_	_	_	_	_	_
+13	sine	flagitium	_	_	_	_	_	_	_
+14	te	sine	_	_	_	_	_	_	_
+15	;	tu	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_120
+# text = tibi uni multorum civium neces , tibi vexatio direptioque sociorum inpunita fuit ac libera ;
+1	tibi	tu	_	_	_	_	_	_	_
+2	uni	unus	_	_	_	_	_	_	_
+3	multorum	multus	_	_	_	_	_	_	_
+4	civium	civis	_	_	_	_	_	_	_
+5	neces	nex	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	tibi	tu	_	_	_	_	_	_	_
+8	vexatio	vexatio	_	_	_	_	_	_	_
+9	direptioque	direptio	_	_	_	_	_	_	_
+10	sociorum	socius	_	_	_	_	_	_	_
+11	inpunita	impunitus	_	_	_	_	_	_	_
+12	fuit	sum	_	_	_	_	_	_	_
+13	ac	ac	_	_	_	_	_	_	_
+14	libera	liber	_	_	_	_	_	_	_
+15	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_121
+# text = tu non solum ad neglegendas leges et quaestiones , verum etiam ad evertendas perfringendasque valuisti .
+1	tu	tu	_	_	_	_	_	_	_
+2	non	non	_	_	_	_	_	_	_
+3	solum	solus	_	_	_	_	_	_	_
+4	ad	ad	_	_	_	_	_	_	_
+5	neglegendas	neglego	_	_	_	_	_	_	_
+6	leges	lex	_	_	_	_	_	_	_
+7	et	et	_	_	_	_	_	_	_
+8	quaestiones	quaestio	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	verum	verus	_	_	_	_	_	_	_
+11	etiam	etiam	_	_	_	_	_	_	_
+12	ad	ad	_	_	_	_	_	_	_
+13	evertendas	everto	_	_	_	_	_	_	_
+14	perfringendasque	perfringo	_	_	_	_	_	_	_
+15	valuisti	valeo	_	_	_	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_122
+# text = Superiora illa , quamquam ferenda non fuerunt , tamen , ut potui , tuli ;
+1	Superiora	superus	_	_	_	_	_	_	_
+2	illa	ille	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	quamquam	quamquam	_	_	_	_	_	_	_
+5	ferenda	fero	_	_	_	_	_	_	_
+6	non	non	_	_	_	_	_	_	_
+7	fuerunt	sum	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	tamen	tamen	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ut	ut	_	_	_	_	_	_	_
+12	potui	possum	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	tuli	fero	_	_	_	_	_	_	_
+15	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_123
+# text = nunc vero me totam esse in metu propter unum te , quicquid increpuerit , Catilinam timeri , nullum videri contra me consilium iniri posse , quod a tuo scelere abhorreat , non est ferendum .
+1	nunc	nunc	_	_	_	_	_	_	_
+2	vero	verus	_	_	_	_	_	_	_
+3	me	ego	_	_	_	_	_	_	_
+4	totam	totus	_	_	_	_	_	_	_
+5	esse	sum	_	_	_	_	_	_	_
+6	in	in	_	_	_	_	_	_	_
+7	metu	metus	_	_	_	_	_	_	_
+8	propter	propter	_	_	_	_	_	_	_
+9	unum	unus	_	_	_	_	_	_	_
+10	te	tu	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	quicquid	quisquis	_	_	_	_	_	_	_
+13	increpuerit	increpo	_	_	_	_	_	_	_
+14	,	Catilina	_	_	_	_	_	_	_
+15	Catilinam	timeo	_	_	_	_	_	_	_
+16	timeri	,	_	_	_	_	_	_	_
+17	,	nullus	_	_	_	_	_	_	_
+18	nullum	video	_	_	_	_	_	_	_
+19	videri	contra	_	_	_	_	_	_	_
+20	contra	ego	_	_	_	_	_	_	_
+21	me	consilium	_	_	_	_	_	_	_
+22	consilium	ineo	_	_	_	_	_	_	_
+23	iniri	possum	_	_	_	_	_	_	_
+24	posse	,	_	_	_	_	_	_	_
+25	,	qui	_	_	_	_	_	_	_
+26	quod	a	_	_	_	_	_	_	_
+27	a	tuus	_	_	_	_	_	_	_
+28	tuo	scelus	_	_	_	_	_	_	_
+29	scelere	abhorreo	_	_	_	_	_	_	_
+30	abhorreat	,	_	_	_	_	_	_	_
+31	,	non	_	_	_	_	_	_	_
+32	non	sum	_	_	_	_	_	_	_
+33	est	fero	_	_	_	_	_	_	_
+34	ferendum	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_124
+# text = Quam ob rem discede atque hunc mihi timorem eripe ;
+1	Quam	qui	_	_	_	_	_	_	_
+2	ob	ob	_	_	_	_	_	_	_
+3	rem	res	_	_	_	_	_	_	_
+4	discede	discedo	_	_	_	_	_	_	_
+5	atque	atque	_	_	_	_	_	_	_
+6	hunc	hic	_	_	_	_	_	_	_
+7	mihi	ego	_	_	_	_	_	_	_
+8	timorem	timor	_	_	_	_	_	_	_
+9	eripe	eripio	_	_	_	_	_	_	_
+10	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_125
+# text = si est verus , ne opprimar , sin falsus , ut tandem aliquando timere desinam. " [19 ]
+1	si	si	_	_	_	_	_	_	_
+2	est	sum	_	_	_	_	_	_	_
+3	verus	verus	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ne	ne	_	_	_	_	_	_	_
+6	opprimar	opprimo	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	sin	sin	_	_	_	_	_	_	_
+9	falsus	falsus	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	ut	ut	_	_	_	_	_	_	_
+12	tandem	tandem	_	_	_	_	_	_	_
+13	aliquando	aliquando	_	_	_	_	_	_	_
+14	timere	timeo	_	_	_	_	_	_	_
+15	desinam.	desino	_	_	_	_	_	_	_
+16	"	"	_	_	_	_	_	_	_
+17	[19	[19	_	_	_	_	_	_	_
+18	]	]	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_126
+# text = VIII .
+1	VIII	VIII	_	_	_	_	_	_	_
+2	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_127
+# text = Haec si tecum , ita ut dixi , patria loquatur , nonne impetrare debeat , etiamsi vim adhibere non possit ?
+1	Haec	hic	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	tecum	tu	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	ita	ita	_	_	_	_	_	_	_
+6	ut	ut	_	_	_	_	_	_	_
+7	dixi	dico	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	patria	patria	_	_	_	_	_	_	_
+10	loquatur	loquor	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	nonne	nonne	_	_	_	_	_	_	_
+13	impetrare	impetro	_	_	_	_	_	_	_
+14	debeat	debeo	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	etiamsi	etiamsi	_	_	_	_	_	_	_
+17	vim	vis	_	_	_	_	_	_	_
+18	adhibere	adhibeo	_	_	_	_	_	_	_
+19	non	non	_	_	_	_	_	_	_
+20	possit	possum	_	_	_	_	_	_	_
+21	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_128
+# text = Quid , quod tu te ipse in custodiam dedisti , quod vitandae suspicionis causa ad M' .
+1	Quid	quis	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	quod	quod	_	_	_	_	_	_	_
+4	tu	tu	_	_	_	_	_	_	_
+5	te	tu	_	_	_	_	_	_	_
+6	ipse	ipse	_	_	_	_	_	_	_
+7	in	in	_	_	_	_	_	_	_
+8	custodiam	custodia	_	_	_	_	_	_	_
+9	dedisti	do	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	quod	quod	_	_	_	_	_	_	_
+12	vitandae	vito	_	_	_	_	_	_	_
+13	suspicionis	suspicio	_	_	_	_	_	_	_
+14	causa	causa	_	_	_	_	_	_	_
+15	ad	ad	_	_	_	_	_	_	_
+16	M'	M'	_	_	_	_	_	_	_
+17	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_129
+# text = Lepidum te habitare velle dixisti ?
+1	Lepidum	Lepidus	_	_	_	_	_	_	_
+2	te	tu	_	_	_	_	_	_	_
+3	habitare	habito	_	_	_	_	_	_	_
+4	velle	volo	_	_	_	_	_	_	_
+5	dixisti	dico	_	_	_	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_130
+# text = A quo non receptus etiam ad me venire ausus es atque , ut domi meae te adservarem , rogasti .
+1	A	a	_	_	_	_	_	_	_
+2	quo	qui	_	_	_	_	_	_	_
+3	non	non	_	_	_	_	_	_	_
+4	receptus	recipio	_	_	_	_	_	_	_
+5	etiam	etiam	_	_	_	_	_	_	_
+6	ad	ad	_	_	_	_	_	_	_
+7	me	ego	_	_	_	_	_	_	_
+8	venire	venio	_	_	_	_	_	_	_
+9	ausus	audeo	_	_	_	_	_	_	_
+10	es	sum	_	_	_	_	_	_	_
+11	atque	atque	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	ut	ut	_	_	_	_	_	_	_
+14	domi	domus	_	_	_	_	_	_	_
+15	meae	meus	_	_	_	_	_	_	_
+16	te	tu	_	_	_	_	_	_	_
+17	adservarem	adservo	_	_	_	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	rogasti	rogo	_	_	_	_	_	_	_
+20	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_131
+# text = Cum a me quoque id responsum tulisses , me nullo modo posse isdem parietibus tuto esse tecum , qui magno in periculo essem , quod isdem moenibus contineremur , ad Q. Metellum praetorem venisti .
+1	Cum	cum	_	_	_	_	_	_	_
+2	a	a	_	_	_	_	_	_	_
+3	me	ego	_	_	_	_	_	_	_
+4	quoque	quoque	_	_	_	_	_	_	_
+5	id	is	_	_	_	_	_	_	_
+6	responsum	responsum	_	_	_	_	_	_	_
+7	tulisses	fero	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	me	ego	_	_	_	_	_	_	_
+10	nullo	nullus	_	_	_	_	_	_	_
+11	modo	modus	_	_	_	_	_	_	_
+12	posse	possum	_	_	_	_	_	_	_
+13	isdem	idem	_	_	_	_	_	_	_
+14	parietibus	paries	_	_	_	_	_	_	_
+15	tuto	tutus	_	_	_	_	_	_	_
+16	esse	sum	_	_	_	_	_	_	_
+17	tecum	tu	_	_	_	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	qui	qui	_	_	_	_	_	_	_
+20	magno	magnus	_	_	_	_	_	_	_
+21	in	in	_	_	_	_	_	_	_
+22	periculo	periculum	_	_	_	_	_	_	_
+23	essem	sum	_	_	_	_	_	_	_
+24	,	,	_	_	_	_	_	_	_
+25	quod	quod	_	_	_	_	_	_	_
+26	isdem	idem	_	_	_	_	_	_	_
+27	moenibus	moenia	_	_	_	_	_	_	_
+28	contineremur	contineo	_	_	_	_	_	_	_
+29	,	,	_	_	_	_	_	_	_
+30	ad	ad	_	_	_	_	_	_	_
+31	Q.	Q.	_	_	_	_	_	_	_
+32	Metellum	Metellus	_	_	_	_	_	_	_
+33	praetorem	praetor	_	_	_	_	_	_	_
+34	venisti	venio	_	_	_	_	_	_	_
+35	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_132
+# text = A quo repudiatus ad sodalem tuum , virum optumum , M. Metellum , demigrasti ;
+1	A	a	_	_	_	_	_	_	_
+2	quo	qui	_	_	_	_	_	_	_
+3	repudiatus	repudio	_	_	_	_	_	_	_
+4	ad	ad	_	_	_	_	_	_	_
+5	sodalem	sodalis	_	_	_	_	_	_	_
+6	tuum	tuus	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	virum	vir	_	_	_	_	_	_	_
+9	optumum	optimus	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	M.	M.	_	_	_	_	_	_	_
+12	Metellum	Metellus	_	_	_	_	_	_	_
+13	,	,	_	_	_	_	_	_	_
+14	demigrasti	demigro	_	_	_	_	_	_	_
+15	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_133
+# text = quem tu videlicet et ad custodiendum diligentissimum et ad suspicandum sagacissimum et ad vindicandum fortissimum fore putasti .
+1	quem	qui	_	_	_	_	_	_	_
+2	tu	tu	_	_	_	_	_	_	_
+3	videlicet	videlicet	_	_	_	_	_	_	_
+4	et	et	_	_	_	_	_	_	_
+5	ad	ad	_	_	_	_	_	_	_
+6	custodiendum	custodio	_	_	_	_	_	_	_
+7	diligentissimum	diligens	_	_	_	_	_	_	_
+8	et	et	_	_	_	_	_	_	_
+9	ad	ad	_	_	_	_	_	_	_
+10	suspicandum	suspicor	_	_	_	_	_	_	_
+11	sagacissimum	sagax	_	_	_	_	_	_	_
+12	et	et	_	_	_	_	_	_	_
+13	ad	ad	_	_	_	_	_	_	_
+14	vindicandum	vindico	_	_	_	_	_	_	_
+15	fortissimum	fortis	_	_	_	_	_	_	_
+16	fore	sum	_	_	_	_	_	_	_
+17	putasti	puto	_	_	_	_	_	_	_
+18	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_134
+# text = Sed quam longe videtur a carcere atque a vinculis abesse debere , qui se ipse iam dignum custodia iudicarit! [20 ] Quae cum ita sint , Catilina , dubitas , si emori aequo animo non potes , abire in aliquas terras et vitam istam multis suppliciis iustis debitisque ereptam fugae solitudinique mandare ?
+1	Sed	sed	_	_	_	_	_	_	_
+2	quam	quam	_	_	_	_	_	_	_
+3	longe	longe	_	_	_	_	_	_	_
+4	videtur	video	_	_	_	_	_	_	_
+5	a	a	_	_	_	_	_	_	_
+6	carcere	carcer	_	_	_	_	_	_	_
+7	atque	atque	_	_	_	_	_	_	_
+8	a	a	_	_	_	_	_	_	_
+9	vinculis	vinculum	_	_	_	_	_	_	_
+10	abesse	absum	_	_	_	_	_	_	_
+11	debere	debeo	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	qui	qui	_	_	_	_	_	_	_
+14	se	sui	_	_	_	_	_	_	_
+15	ipse	ipse	_	_	_	_	_	_	_
+16	iam	iam	_	_	_	_	_	_	_
+17	dignum	dignus	_	_	_	_	_	_	_
+18	custodia	custodia	_	_	_	_	_	_	_
+19	iudicarit!	iudico	_	_	_	_	_	_	_
+20	[20	[20	_	_	_	_	_	_	_
+21	]	]	_	_	_	_	_	_	_
+22	Quae	qui	_	_	_	_	_	_	_
+23	cum	cum	_	_	_	_	_	_	_
+24	ita	ita	_	_	_	_	_	_	_
+25	sint	sum	_	_	_	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	Catilina	Catilina	_	_	_	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	dubitas	dubito	_	_	_	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	si	si	_	_	_	_	_	_	_
+32	emori	emorior	_	_	_	_	_	_	_
+33	aequo	aequus	_	_	_	_	_	_	_
+34	animo	animus	_	_	_	_	_	_	_
+35	non	non	_	_	_	_	_	_	_
+36	potes	possum	_	_	_	_	_	_	_
+37	,	,	_	_	_	_	_	_	_
+38	abire	abeo	_	_	_	_	_	_	_
+39	in	in	_	_	_	_	_	_	_
+40	aliquas	aliqui	_	_	_	_	_	_	_
+41	terras	terra	_	_	_	_	_	_	_
+42	et	et	_	_	_	_	_	_	_
+43	vitam	vita	_	_	_	_	_	_	_
+44	istam	iste	_	_	_	_	_	_	_
+45	multis	multus	_	_	_	_	_	_	_
+46	suppliciis	supplicium	_	_	_	_	_	_	_
+47	iustis	iustus	_	_	_	_	_	_	_
+48	debitisque	debeo	_	_	_	_	_	_	_
+49	ereptam	eripio	_	_	_	_	_	_	_
+50	fugae	fuga	_	_	_	_	_	_	_
+51	solitudinique	solitudo	_	_	_	_	_	_	_
+52	mandare	mando	_	_	_	_	_	_	_
+53	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_135
+# text = "Refer" inquis "ad senatum " ;
+1	"Refer"	refero	_	_	_	_	_	_	_
+2	inquis	inquio	_	_	_	_	_	_	_
+3	"ad	ad	_	_	_	_	_	_	_
+4	senatum	senatus	_	_	_	_	_	_	_
+5	"	"	_	_	_	_	_	_	_
+6	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_136
+# text = id enim postulas et , si hic ordo [ sibi ] placere decreverit te ire in exilium , optemperaturum te esse dicis .
+1	id	is	_	_	_	_	_	_	_
+2	enim	enim	_	_	_	_	_	_	_
+3	postulas	postulo	_	_	_	_	_	_	_
+4	et	et	_	_	_	_	_	_	_
+5	,	,	_	_	_	_	_	_	_
+6	si	si	_	_	_	_	_	_	_
+7	hic	hic	_	_	_	_	_	_	_
+8	ordo	ordo	_	_	_	_	_	_	_
+9	[	[	_	_	_	_	_	_	_
+10	sibi	sui	_	_	_	_	_	_	_
+11	]	]	_	_	_	_	_	_	_
+12	placere	placeo	_	_	_	_	_	_	_
+13	decreverit	decerno	_	_	_	_	_	_	_
+14	te	tu	_	_	_	_	_	_	_
+15	ire	eo	_	_	_	_	_	_	_
+16	in	in	_	_	_	_	_	_	_
+17	exilium	exilium	_	_	_	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	optemperaturum	obtempero	_	_	_	_	_	_	_
+20	te	tu	_	_	_	_	_	_	_
+21	esse	sum	_	_	_	_	_	_	_
+22	dicis	dico	_	_	_	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_137
+# text = Non referam , id quod abhorret a meis moribus , et tamen faciam , ut intellegas , quid hi de te sentiant .
+1	Non	non	_	_	_	_	_	_	_
+2	referam	refero	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	id	is	_	_	_	_	_	_	_
+5	quod	qui	_	_	_	_	_	_	_
+6	abhorret	abhorreo	_	_	_	_	_	_	_
+7	a	a	_	_	_	_	_	_	_
+8	meis	meus	_	_	_	_	_	_	_
+9	moribus	mos	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	et	et	_	_	_	_	_	_	_
+12	tamen	tamen	_	_	_	_	_	_	_
+13	faciam	facio	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	ut	ut	_	_	_	_	_	_	_
+16	intellegas	intelligo	_	_	_	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	quid	quis	_	_	_	_	_	_	_
+19	hi	hic	_	_	_	_	_	_	_
+20	de	de	_	_	_	_	_	_	_
+21	te	tu	_	_	_	_	_	_	_
+22	sentiant	sentio	_	_	_	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_138
+# text = Egredere ex urbe , Catilina , libera rem publicam metu , in exilium , si hanc vocem exspectas , proficiscere .
+1	Egredere	egredior	_	_	_	_	_	_	_
+2	ex	ex	_	_	_	_	_	_	_
+3	urbe	urbs	_	_	_	_	_	_	_
+4	,	,	_	_	_	_	_	_	_
+5	Catilina	Catilina	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	libera	libero	_	_	_	_	_	_	_
+8	rem	res	_	_	_	_	_	_	_
+9	publicam	publicus	_	_	_	_	_	_	_
+10	metu	metus	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	in	in	_	_	_	_	_	_	_
+13	exilium	exilium	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	si	si	_	_	_	_	_	_	_
+16	hanc	hic	_	_	_	_	_	_	_
+17	vocem	vox	_	_	_	_	_	_	_
+18	exspectas	exspecto	_	_	_	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	proficiscere	proficiscor	_	_	_	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_139
+# text = Quid est , Catilina ?
+1	Quid	quis	_	_	_	_	_	_	_
+2	est	sum	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	Catilina	Catilina	_	_	_	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_140
+# text = ecquid attendis , ecquid animadvertis horum silentium ?
+1	ecquid	ecquis	_	_	_	_	_	_	_
+2	attendis	attendo	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	ecquid	ecquis	_	_	_	_	_	_	_
+5	animadvertis	animadverto	_	_	_	_	_	_	_
+6	horum	hic	_	_	_	_	_	_	_
+7	silentium	silentium	_	_	_	_	_	_	_
+8	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_161
+# text = XI. Nunc , ut a me , patres conscripti , quandam prope iustam patriae querimoniam detester ac deprecer , percipite , quaeso , diligenter , quae dicam , et ea penitus animis vestris mentibusque mandate .
+1	XI.	xi.	_	_	_	_	_	_	_
+2	Nunc	nunc	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	ut	ut	_	_	_	_	_	_	_
+5	a	ab	_	_	_	_	_	_	_
+6	me	ego	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	patres	pater	_	_	_	_	_	_	_
+9	conscripti	conscribo	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	quandam	quidam	_	_	_	_	_	_	_
+12	prope	prope	_	_	_	_	_	_	_
+13	iustam	iustus	_	_	_	_	_	_	_
+14	patriae	patria	_	_	_	_	_	_	_
+15	querimoniam	querimonia	_	_	_	_	_	_	_
+16	detester	detestor	_	_	_	_	_	_	_
+17	ac	ac	_	_	_	_	_	_	_
+18	deprecer	deprecor	_	_	_	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	percipite	percipio	_	_	_	_	_	_	_
+21	,	,	_	_	_	_	_	_	_
+22	quaeso	quaeso	_	_	_	_	_	_	_
+23	,	,	_	_	_	_	_	_	_
+24	diligenter	diligenter	_	_	_	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	quae	qui	_	_	_	_	_	_	_
+27	dicam	dico	_	_	_	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	et	et	_	_	_	_	_	_	_
+30	ea	is	_	_	_	_	_	_	_
+31	penitus	penitus	_	_	_	_	_	_	_
+32	animis	animus	_	_	_	_	_	_	_
+33	vestris	vester	_	_	_	_	_	_	_
+34	mentibusque	mens	_	_	_	_	_	_	_
+35	mandate	mando	_	_	_	_	_	_	_
+36	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_162
+# text = Etenim , si mecum patria , quae mihi vita mea multo est carior , si cuncta Italia , si omnis res publica loquatur :
+1	Etenim	etenim	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	mecum	ego	_	_	_	_	_	_	_
+5	patria	patria	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	quae	qui	_	_	_	_	_	_	_
+8	mihi	ego	_	_	_	_	_	_	_
+9	vita	vita	_	_	_	_	_	_	_
+10	mea	meus	_	_	_	_	_	_	_
+11	multo	multus	_	_	_	_	_	_	_
+12	est	sum	_	_	_	_	_	_	_
+13	carior	carus	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	si	si	_	_	_	_	_	_	_
+16	cuncta	cunctus	_	_	_	_	_	_	_
+17	Italia	Italia	_	_	_	_	_	_	_
+18	,	,	_	_	_	_	_	_	_
+19	si	si	_	_	_	_	_	_	_
+20	omnis	omnis	_	_	_	_	_	_	_
+21	res	res	_	_	_	_	_	_	_
+22	publica	publicus	_	_	_	_	_	_	_
+23	loquatur	loquor	_	_	_	_	_	_	_
+24	:	:	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_163
+# text = "M. Tulli , quid agis ?
+1	"M.	"Marcus	_	_	_	_	_	_	_
+2	Tulli	Tullius	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	quid	quis	_	_	_	_	_	_	_
+5	agis	ago	_	_	_	_	_	_	_
+6	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_164
+# text = Tune eum , quem esse hostem comperisti , quem ducem belli futurum vides , quem expectari imperatorem in castris hostium sentis , auctorem sceleris , principem coniurationis , evocatorem servorum et civium perditorum , exire patiere , ut abs te non emissus ex urbe , sed immissus in urbem esse videatur ?
+1	Tune	tu	_	_	_	_	_	_	_
+2	eum	is	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	quem	qui	_	_	_	_	_	_	_
+5	esse	sum	_	_	_	_	_	_	_
+6	hostem	hostis	_	_	_	_	_	_	_
+7	comperisti	comperio	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	quem	qui	_	_	_	_	_	_	_
+10	ducem	dux	_	_	_	_	_	_	_
+11	belli	bellum	_	_	_	_	_	_	_
+12	futurum	sum	_	_	_	_	_	_	_
+13	vides	video	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	quem	qui	_	_	_	_	_	_	_
+16	expectari	expecto	_	_	_	_	_	_	_
+17	imperatorem	imperator	_	_	_	_	_	_	_
+18	in	in	_	_	_	_	_	_	_
+19	castris	castra	_	_	_	_	_	_	_
+20	hostium	hostis	_	_	_	_	_	_	_
+21	sentis	sentio	_	_	_	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	auctorem	auctor	_	_	_	_	_	_	_
+24	sceleris	scelus	_	_	_	_	_	_	_
+25	,	,	_	_	_	_	_	_	_
+26	principem	princeps	_	_	_	_	_	_	_
+27	coniurationis	coniuratio	_	_	_	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	evocatorem	evocator	_	_	_	_	_	_	_
+30	servorum	servus	_	_	_	_	_	_	_
+31	et	et	_	_	_	_	_	_	_
+32	civium	civis	_	_	_	_	_	_	_
+33	perditorum	perditus	_	_	_	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	exire	exeo	_	_	_	_	_	_	_
+36	patiere	patior	_	_	_	_	_	_	_
+37	,	,	_	_	_	_	_	_	_
+38	ut	ut	_	_	_	_	_	_	_
+39	abs	ab	_	_	_	_	_	_	_
+40	te	tu	_	_	_	_	_	_	_
+41	non	non	_	_	_	_	_	_	_
+42	emissus	emitto	_	_	_	_	_	_	_
+43	ex	ex	_	_	_	_	_	_	_
+44	urbe	urbs	_	_	_	_	_	_	_
+45	,	,	_	_	_	_	_	_	_
+46	sed	sed	_	_	_	_	_	_	_
+47	immissus	immitto	_	_	_	_	_	_	_
+48	in	in	_	_	_	_	_	_	_
+49	urbem	urbs	_	_	_	_	_	_	_
+50	esse	sum	_	_	_	_	_	_	_
+51	videatur	video	_	_	_	_	_	_	_
+52	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_165
+# text = Nonne hunc in vincla duci , non ad mortem rapi , non summo supplicio mactari imperabis ? [28 ] Quid tandem te impedit ?
+1	Nonne	nonne	_	_	_	_	_	_	_
+2	hunc	hic	_	_	_	_	_	_	_
+3	in	in	_	_	_	_	_	_	_
+4	vincla	vinculum	_	_	_	_	_	_	_
+5	duci	duco	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	non	non	_	_	_	_	_	_	_
+8	ad	ad	_	_	_	_	_	_	_
+9	mortem	mors	_	_	_	_	_	_	_
+10	rapi	rapio	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	non	non	_	_	_	_	_	_	_
+13	summo	summus	_	_	_	_	_	_	_
+14	supplicio	supplicium	_	_	_	_	_	_	_
+15	mactari	macto	_	_	_	_	_	_	_
+16	imperabis	impero	_	_	_	_	_	_	_
+17	?	?	_	_	_	_	_	_	_
+18	[28	[28	_	_	_	_	_	_	_
+19	]	]	_	_	_	_	_	_	_
+20	Quid	quis	_	_	_	_	_	_	_
+21	tandem	tandem	_	_	_	_	_	_	_
+22	te	tu	_	_	_	_	_	_	_
+23	impedit	impedio	_	_	_	_	_	_	_
+24	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_166
+# text = mosne maiorum ?
+1	mosne	mos	_	_	_	_	_	_	_
+2	maiorum	maiores	_	_	_	_	_	_	_
+3	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_167
+# text = At persaepe etiam privati in hac re publica perniciosos cives morte multarunt .
+1	At	at	_	_	_	_	_	_	_
+2	persaepe	persaepe	_	_	_	_	_	_	_
+3	etiam	etiam	_	_	_	_	_	_	_
+4	privati	privatus	_	_	_	_	_	_	_
+5	in	in	_	_	_	_	_	_	_
+6	hac	hic	_	_	_	_	_	_	_
+7	re	res	_	_	_	_	_	_	_
+8	publica	publicus	_	_	_	_	_	_	_
+9	perniciosos	perniciosus	_	_	_	_	_	_	_
+10	cives	civis	_	_	_	_	_	_	_
+11	morte	mors	_	_	_	_	_	_	_
+12	multarunt	multo	_	_	_	_	_	_	_
+13	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_168
+# text = An leges , quae de civium Romanorum supplicio rogatae sunt ?
+1	An	an	_	_	_	_	_	_	_
+2	leges	lex	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	quae	qui	_	_	_	_	_	_	_
+5	de	de	_	_	_	_	_	_	_
+6	civium	civis	_	_	_	_	_	_	_
+7	Romanorum	Romanus	_	_	_	_	_	_	_
+8	supplicio	supplicium	_	_	_	_	_	_	_
+9	rogatae	rogo	_	_	_	_	_	_	_
+10	sunt	sum	_	_	_	_	_	_	_
+11	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_169
+# text = At numquam in hac urbe , qui a re publica defecerunt , civium iura tenuerunt .
+1	At	at	_	_	_	_	_	_	_
+2	numquam	numquam	_	_	_	_	_	_	_
+3	in	in	_	_	_	_	_	_	_
+4	hac	hic	_	_	_	_	_	_	_
+5	urbe	urbs	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	qui	qui	_	_	_	_	_	_	_
+8	a	ab	_	_	_	_	_	_	_
+9	re	res	_	_	_	_	_	_	_
+10	publica	publicus	_	_	_	_	_	_	_
+11	defecerunt	deficio	_	_	_	_	_	_	_
+12	,	,	_	_	_	_	_	_	_
+13	civium	civis	_	_	_	_	_	_	_
+14	iura	ius	_	_	_	_	_	_	_
+15	tenuerunt	teneo	_	_	_	_	_	_	_
+16	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_170
+# text = An invidiam posteritatis times ?
+1	An	an	_	_	_	_	_	_	_
+2	invidiam	invidia	_	_	_	_	_	_	_
+3	posteritatis	posteritas	_	_	_	_	_	_	_
+4	times	timeo	_	_	_	_	_	_	_
+5	?	?	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_171
+# text = Praeclaram vero populo Romano refers gratiam , qui te , hominem per te cognitum nulla commendatione maiorum tam mature ad summum imperium per omnis honorum gradus extulit , si propter invidiam aut alicuius periculi metum salutem civium tuorum neglegis. [29 ]
+1	Praeclaram	praeclarus	_	_	_	_	_	_	_
+2	vero	vero	_	_	_	_	_	_	_
+3	populo	populus	_	_	_	_	_	_	_
+4	Romano	Romanus	_	_	_	_	_	_	_
+5	refers	refero	_	_	_	_	_	_	_
+6	gratiam	gratia	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	qui	qui	_	_	_	_	_	_	_
+9	te	tu	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	hominem	homo	_	_	_	_	_	_	_
+12	per	per	_	_	_	_	_	_	_
+13	te	tu	_	_	_	_	_	_	_
+14	cognitum	cognosco	_	_	_	_	_	_	_
+15	nulla	nullus	_	_	_	_	_	_	_
+16	commendatione	commendatio	_	_	_	_	_	_	_
+17	maiorum	maiores	_	_	_	_	_	_	_
+18	tam	tam	_	_	_	_	_	_	_
+19	mature	mature	_	_	_	_	_	_	_
+20	ad	ad	_	_	_	_	_	_	_
+21	summum	summus	_	_	_	_	_	_	_
+22	imperium	imperium	_	_	_	_	_	_	_
+23	per	per	_	_	_	_	_	_	_
+24	omnis	omnis	_	_	_	_	_	_	_
+25	honorum	honor	_	_	_	_	_	_	_
+26	gradus	gradus	_	_	_	_	_	_	_
+27	extulit	effero	_	_	_	_	_	_	_
+28	,	,	_	_	_	_	_	_	_
+29	si	si	_	_	_	_	_	_	_
+30	propter	propter	_	_	_	_	_	_	_
+31	invidiam	invidia	_	_	_	_	_	_	_
+32	aut	aut	_	_	_	_	_	_	_
+33	alicuius	aliqui	_	_	_	_	_	_	_
+34	periculi	periculum	_	_	_	_	_	_	_
+35	metum	metus	_	_	_	_	_	_	_
+36	salutem	salus	_	_	_	_	_	_	_
+37	civium	civis	_	_	_	_	_	_	_
+38	tuorum	tuus	_	_	_	_	_	_	_
+39	neglegis.	neglego	_	_	_	_	_	_	_
+40	[29	[29	_	_	_	_	_	_	_
+41	]	]	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_172
+# text = Sed , si quis est invidiae metus , non est vehementius severitatis ac fortitudinis invidia quam inertiae ac nequitiae pertimescenda .
+1	Sed	sed	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	si	si	_	_	_	_	_	_	_
+4	quis	quis	_	_	_	_	_	_	_
+5	est	sum	_	_	_	_	_	_	_
+6	invidiae	invidia	_	_	_	_	_	_	_
+7	metus	metus	_	_	_	_	_	_	_
+8	,	,	_	_	_	_	_	_	_
+9	non	non	_	_	_	_	_	_	_
+10	est	sum	_	_	_	_	_	_	_
+11	vehementius	vehementer	_	_	_	_	_	_	_
+12	severitatis	severitas	_	_	_	_	_	_	_
+13	ac	ac	_	_	_	_	_	_	_
+14	fortitudinis	fortitudo	_	_	_	_	_	_	_
+15	invidia	invidia	_	_	_	_	_	_	_
+16	quam	quam	_	_	_	_	_	_	_
+17	inertiae	inertia	_	_	_	_	_	_	_
+18	ac	ac	_	_	_	_	_	_	_
+19	nequitiae	nequitia	_	_	_	_	_	_	_
+20	pertimescenda	pertimesco	_	_	_	_	_	_	_
+21	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_173
+# text = An , cum bello vastabitur Italia , vexabuntur urbes , tecta ardebunt tum te non existumas invidiae incendio conflagraturum ? " XII .
+1	An	an	_	_	_	_	_	_	_
+2	,	,	_	_	_	_	_	_	_
+3	cum	cum	_	_	_	_	_	_	_
+4	bello	bellum	_	_	_	_	_	_	_
+5	vastabitur	vasto	_	_	_	_	_	_	_
+6	Italia	Italia	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	vexabuntur	vexo	_	_	_	_	_	_	_
+9	urbes	urbs	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	tecta	tectum	_	_	_	_	_	_	_
+12	ardebunt	ardeo	_	_	_	_	_	_	_
+13	tum	tum	_	_	_	_	_	_	_
+14	te	tu	_	_	_	_	_	_	_
+15	non	non	_	_	_	_	_	_	_
+16	existumas	existimo	_	_	_	_	_	_	_
+17	invidiae	invidia	_	_	_	_	_	_	_
+18	incendio	incendium	_	_	_	_	_	_	_
+19	conflagraturum	conflagro	_	_	_	_	_	_	_
+20	?	?	_	_	_	_	_	_	_
+21	"	"	_	_	_	_	_	_	_
+22	XII	xii.	_	_	_	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_174
+# text = His ego sanctissimis rei publicae vocibus et eorum hominum , qui hoc idem sentiunt , mentibus pauca respondebo .
+1	His	hic	_	_	_	_	_	_	_
+2	ego	ego	_	_	_	_	_	_	_
+3	sanctissimis	sanctus	_	_	_	_	_	_	_
+4	rei	res	_	_	_	_	_	_	_
+5	publicae	publicus	_	_	_	_	_	_	_
+6	vocibus	vox	_	_	_	_	_	_	_
+7	et	et	_	_	_	_	_	_	_
+8	eorum	is	_	_	_	_	_	_	_
+9	hominum	homo	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	qui	qui	_	_	_	_	_	_	_
+12	hoc	hic	_	_	_	_	_	_	_
+13	idem	idem	_	_	_	_	_	_	_
+14	sentiunt	sentio	_	_	_	_	_	_	_
+15	,	,	_	_	_	_	_	_	_
+16	mentibus	mens	_	_	_	_	_	_	_
+17	pauca	paucus	_	_	_	_	_	_	_
+18	respondebo	respondeo	_	_	_	_	_	_	_
+19	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_175
+# text = Ego si hoc optimum factu iudicarem , patres conscripti , Catilinam morte multari , unius usuram horae gladiatori isti ad vivendum non dedissem .
+1	Ego	ego	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	hoc	hic	_	_	_	_	_	_	_
+4	optimum	bonus	_	_	_	_	_	_	_
+5	factu	facio	_	_	_	_	_	_	_
+6	iudicarem	iudico	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	patres	pater	_	_	_	_	_	_	_
+9	conscripti	conscribo	_	_	_	_	_	_	_
+10	,	,	_	_	_	_	_	_	_
+11	Catilinam	Catilina	_	_	_	_	_	_	_
+12	morte	mors	_	_	_	_	_	_	_
+13	multari	multo	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	unius	unus	_	_	_	_	_	_	_
+16	usuram	usura	_	_	_	_	_	_	_
+17	horae	hora	_	_	_	_	_	_	_
+18	gladiatori	gladiator	_	_	_	_	_	_	_
+19	isti	iste	_	_	_	_	_	_	_
+20	ad	ad	_	_	_	_	_	_	_
+21	vivendum	vivo	_	_	_	_	_	_	_
+22	non	non	_	_	_	_	_	_	_
+23	dedissem	do	_	_	_	_	_	_	_
+24	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_176
+# text = Etenim si summi viri et clarissimi cives Saturnini et Gracchorum et Flacci et superiorum complurium sanguine non modo se non contaminarunt , sed etiam honestarunt , certe verendum mihi non erat , ne quid hoc parricida civium interfecto invidiae [ mihi ] in posteritatem redundaret .
+1	Etenim	etenim	_	_	_	_	_	_	_
+2	si	si	_	_	_	_	_	_	_
+3	summi	summus	_	_	_	_	_	_	_
+4	viri	vir	_	_	_	_	_	_	_
+5	et	et	_	_	_	_	_	_	_
+6	clarissimi	clarus	_	_	_	_	_	_	_
+7	cives	civis	_	_	_	_	_	_	_
+8	Saturnini	Saturninus	_	_	_	_	_	_	_
+9	et	et	_	_	_	_	_	_	_
+10	Gracchorum	Gracchus	_	_	_	_	_	_	_
+11	et	et	_	_	_	_	_	_	_
+12	Flacci	Flaccus	_	_	_	_	_	_	_
+13	et	et	_	_	_	_	_	_	_
+14	superiorum	superus	_	_	_	_	_	_	_
+15	complurium	complures	_	_	_	_	_	_	_
+16	sanguine	sanguis	_	_	_	_	_	_	_
+17	non	non	_	_	_	_	_	_	_
+18	modo	modo	_	_	_	_	_	_	_
+19	se	sui	_	_	_	_	_	_	_
+20	non	non	_	_	_	_	_	_	_
+21	contaminarunt	contamino	_	_	_	_	_	_	_
+22	,	,	_	_	_	_	_	_	_
+23	sed	sed	_	_	_	_	_	_	_
+24	etiam	etiam	_	_	_	_	_	_	_
+25	honestarunt	honesto	_	_	_	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	certe	certe	_	_	_	_	_	_	_
+28	verendum	vereor	_	_	_	_	_	_	_
+29	mihi	ego	_	_	_	_	_	_	_
+30	non	non	_	_	_	_	_	_	_
+31	erat	sum	_	_	_	_	_	_	_
+32	,	,	_	_	_	_	_	_	_
+33	ne	ne	_	_	_	_	_	_	_
+34	quid	quis	_	_	_	_	_	_	_
+35	hoc	hic	_	_	_	_	_	_	_
+36	parricida	parricida	_	_	_	_	_	_	_
+37	civium	civis	_	_	_	_	_	_	_
+38	interfecto	interficio	_	_	_	_	_	_	_
+39	invidiae	invidia	_	_	_	_	_	_	_
+40	[	[	_	_	_	_	_	_	_
+41	mihi	ego	_	_	_	_	_	_	_
+42	]	]	_	_	_	_	_	_	_
+43	in	in	_	_	_	_	_	_	_
+44	posteritatem	posteritas	_	_	_	_	_	_	_
+45	redundaret	redundo	_	_	_	_	_	_	_
+46	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_177
+# text = Quodsi ea mihi maxime inpenderet tamen hoc animo fui semper , ut invidiam virtute partam gloriam , non invidiam putarem. [30 ] Quamquam non nulli sunt in hoc ordine , qui aut ea , quae inminent non videant aut ea , quae vident , dissimulent ;
+1	Quodsi	quodsi	_	_	_	_	_	_	_
+2	ea	is	_	_	_	_	_	_	_
+3	mihi	ego	_	_	_	_	_	_	_
+4	maxime	magis	_	_	_	_	_	_	_
+5	inpenderet	impendeo	_	_	_	_	_	_	_
+6	tamen	tamen	_	_	_	_	_	_	_
+7	hoc	hic	_	_	_	_	_	_	_
+8	animo	animus	_	_	_	_	_	_	_
+9	fui	sum	_	_	_	_	_	_	_
+10	semper	semper	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	ut	ut	_	_	_	_	_	_	_
+13	invidiam	invidia	_	_	_	_	_	_	_
+14	virtute	virtus	_	_	_	_	_	_	_
+15	partam	pario	_	_	_	_	_	_	_
+16	gloriam	gloria	_	_	_	_	_	_	_
+17	,	,	_	_	_	_	_	_	_
+18	non	non	_	_	_	_	_	_	_
+19	invidiam	invidia	_	_	_	_	_	_	_
+20	putarem.	puto	_	_	_	_	_	_	_
+21	[30	[30	_	_	_	_	_	_	_
+22	]	]	_	_	_	_	_	_	_
+23	Quamquam	quamquam	_	_	_	_	_	_	_
+24	non	non	_	_	_	_	_	_	_
+25	nulli	nullus	_	_	_	_	_	_	_
+26	sunt	sum	_	_	_	_	_	_	_
+27	in	in	_	_	_	_	_	_	_
+28	hoc	hic	_	_	_	_	_	_	_
+29	ordine	ordo	_	_	_	_	_	_	_
+30	,	,	_	_	_	_	_	_	_
+31	qui	qui	_	_	_	_	_	_	_
+32	aut	aut	_	_	_	_	_	_	_
+33	ea	is	_	_	_	_	_	_	_
+34	,	,	_	_	_	_	_	_	_
+35	quae	qui	_	_	_	_	_	_	_
+36	inminent	immineo	_	_	_	_	_	_	_
+37	non	non	_	_	_	_	_	_	_
+38	videant	video	_	_	_	_	_	_	_
+39	aut	aut	_	_	_	_	_	_	_
+40	ea	is	_	_	_	_	_	_	_
+41	,	,	_	_	_	_	_	_	_
+42	quae	qui	_	_	_	_	_	_	_
+43	vident	video	_	_	_	_	_	_	_
+44	,	,	_	_	_	_	_	_	_
+45	dissimulent	dissimulo	_	_	_	_	_	_	_
+46	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_178
+# text = qui spem Catilinae mollibus sententiis aluerunt coniurationemque nascentem non credendo corroboraverunt ;
+1	qui	qui	_	_	_	_	_	_	_
+2	spem	spes	_	_	_	_	_	_	_
+3	Catilinae	Catilina	_	_	_	_	_	_	_
+4	mollibus	mollis	_	_	_	_	_	_	_
+5	sententiis	sententia	_	_	_	_	_	_	_
+6	aluerunt	alo	_	_	_	_	_	_	_
+7	coniurationemque	coniuratio	_	_	_	_	_	_	_
+8	nascentem	nascor	_	_	_	_	_	_	_
+9	non	non	_	_	_	_	_	_	_
+10	credendo	credo	_	_	_	_	_	_	_
+11	corroboraverunt	corroboro	_	_	_	_	_	_	_
+12	;	;	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_179
+# text = quorum auctoritate multi non solum improbi , verum etiam inperiti , si in hunc animadvertissem , crudeliter et regie factum esse dicerent .
+1	quorum	qui	_	_	_	_	_	_	_
+2	auctoritate	auctoritas	_	_	_	_	_	_	_
+3	multi	multus	_	_	_	_	_	_	_
+4	non	non	_	_	_	_	_	_	_
+5	solum	solum	_	_	_	_	_	_	_
+6	improbi	improbus	_	_	_	_	_	_	_
+7	,	,	_	_	_	_	_	_	_
+8	verum	verum	_	_	_	_	_	_	_
+9	etiam	etiam	_	_	_	_	_	_	_
+10	inperiti	imperitus	_	_	_	_	_	_	_
+11	,	,	_	_	_	_	_	_	_
+12	si	si	_	_	_	_	_	_	_
+13	in	in	_	_	_	_	_	_	_
+14	hunc	hic	_	_	_	_	_	_	_
+15	animadvertissem	animadverto	_	_	_	_	_	_	_
+16	,	,	_	_	_	_	_	_	_
+17	crudeliter	crudeliter	_	_	_	_	_	_	_
+18	et	et	_	_	_	_	_	_	_
+19	regie	regie	_	_	_	_	_	_	_
+20	factum	facio	_	_	_	_	_	_	_
+21	esse	sum	_	_	_	_	_	_	_
+22	dicerent	dico	_	_	_	_	_	_	_
+23	.	.	_	_	_	_	_	_	_
+
+# sent_id = silver_cicero_180
+# text = Nunc intellego , si iste , quo intendit , in Manliana castra pervenerit , neminem tam stultum fore , qui non videat coniurationem esse factam , neminem tam improbum qui non fateatur .
+1	Nunc	nunc	_	_	_	_	_	_	_
+2	intellego	intellego	_	_	_	_	_	_	_
+3	,	,	_	_	_	_	_	_	_
+4	si	si	_	_	_	_	_	_	_
+5	iste	iste	_	_	_	_	_	_	_
+6	,	,	_	_	_	_	_	_	_
+7	quo	quo	_	_	_	_	_	_	_
+8	intendit	intendo	_	_	_	_	_	_	_
+9	,	,	_	_	_	_	_	_	_
+10	in	in	_	_	_	_	_	_	_
+11	Manliana	Manlianus	_	_	_	_	_	_	_
+12	castra	castra	_	_	_	_	_	_	_
+13	pervenerit	pervenio	_	_	_	_	_	_	_
+14	,	,	_	_	_	_	_	_	_
+15	neminem	nemo	_	_	_	_	_	_	_
+16	tam	tam	_	_	_	_	_	_	_
+17	stultum	stultus	_	_	_	_	_	_	_
+18	fore	sum	_	_	_	_	_	_	_
+19	,	,	_	_	_	_	_	_	_
+20	qui	qui	_	_	_	_	_	_	_
+21	non	non	_	_	_	_	_	_	_
+22	videat	video	_	_	_	_	_	_	_
+23	coniurationem	coniuratio	_	_	_	_	_	_	_
+24	esse	sum	_	_	_	_	_	_	_
+25	factam	facio	_	_	_	_	_	_	_
+26	,	,	_	_	_	_	_	_	_
+27	neminem	nemo	_	_	_	_	_	_	_
+28	tam	tam	_	_	_	_	_	_	_
+29	improbum	improbus	_	_	_	_	_	_	_
+30	qui	qui	_	_	_	_	_	_	_
+31	non	non	_	_	_	_	_	_	_
+32	fateatur	fateor	_	_	_	_	_	_	_
+33	.	.	_	_	_	_	_	_	_
+
