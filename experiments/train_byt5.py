@@ -1,6 +1,7 @@
 import os
 import torch
-from transformers import ByT5Tokenizer, T5ForConditionalGeneration, Trainer, TrainingArguments
+import shutil
+from transformers import ByT5Tokenizer, T5ForConditionalGeneration, Trainer, TrainingArguments, TrainerCallback
 from torch.utils.data import Dataset
 from conllu import parse_incr
 
@@ -37,6 +38,27 @@ class LemmatizationDataset(Dataset):
     def __getitem__(self, idx):
         return self.data[idx]
 
+class SaveBestPerseusCallback(TrainerCallback):
+    def __init__(self, output_dir):
+        self.output_dir = output_dir
+        self.best_loss = float("inf")
+
+    def on_evaluate(self, args, state, control, metrics=None, **kwargs):
+        # In multi-dataset evaluation, metrics will have keys like 'eval_perseus_loss'
+        current_loss = metrics.get("eval_perseus_loss")
+        
+        if current_loss is not None and current_loss < self.best_loss:
+            print(f"\n✨ Perseus Loss improved from {self.best_loss:.4f} to {current_loss:.4f}")
+            self.best_loss = current_loss
+            
+            # Define best model path
+            best_model_path = os.path.join(self.output_dir, "best_model_perseus")
+            
+            # Save the model and tokenizer
+            kwargs["model"].save_pretrained(best_model_path)
+            kwargs["tokenizer"].save_pretrained(best_model_path)
+            print(f"💾 Best model saved to {best_model_path}")
+
 def train():
     model_name = "google/byt5-base"
     tokenizer = ByT5Tokenizer.from_pretrained(model_name)
@@ -54,17 +76,17 @@ def train():
         "udante": LemmatizationDataset("data/UD_Latin-UDante/la_udante-ud-test.conllu", tokenizer)
     }
     
+    output_dir = "./saved_models/byt5_final_sota"
+    
     training_args = TrainingArguments(
-        output_dir="./saved_models/byt5_final_sota",
+        output_dir=output_dir,
         per_device_train_batch_size=20, 
         per_device_eval_batch_size=20,
         gradient_accumulation_steps=2,
         num_train_epochs=5,
         eval_strategy="steps",
         eval_steps=250,
-        save_strategy="steps",
-        save_steps=1000,
-        save_total_limit=10,
+        save_strategy="no", # Disable default checkpointing
         logging_steps=100,
         logging_dir="./logs",
         learning_rate=3e-5,
@@ -77,16 +99,19 @@ def train():
         model=model,
         args=training_args,
         train_dataset=train_dataset,
-        eval_dataset=eval_datasets, # Dict for per-dataset logging
+        eval_dataset=eval_datasets,
+        tokenizer=tokenizer,
+        callbacks=[SaveBestPerseusCallback(output_dir)]
     )
     
-    print("🚀 Starting Final ByT5 Universal SOTA Training...")
-    print("Each benchmark will be logged separately in the training logs.")
+    print("Saving strategy: Only when Perseus loss improves.")
     trainer.train()
     
-    model.save_pretrained("./saved_models/byt5_final_sota_complete")
-    tokenizer.save_pretrained("./saved_models/byt5_final_sota_complete")
-    print("✅ Training complete. Model saved to ./saved_models/byt5_final_sota_complete")
+    # Save final model for safety
+    final_output = os.path.join(output_dir, "model_final")
+    model.save_pretrained(final_output)
+    tokenizer.save_pretrained(final_output)
+    print(f"✅ Training complete. Final model saved to {final_output}")
 
 if __name__ == "__main__":
     train()
