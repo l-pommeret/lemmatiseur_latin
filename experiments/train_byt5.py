@@ -1,16 +1,29 @@
 import os
 import torch
 import shutil
+import logging
 from transformers import ByT5Tokenizer, T5ForConditionalGeneration, Trainer, TrainingArguments, TrainerCallback
 from torch.utils.data import Dataset
 from conllu import parse_incr
+
+# Setup logging
+os.makedirs("logs", exist_ok=True)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        logging.FileHandler("logs/training.log"),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
 
 class LemmatizationDataset(Dataset):
     def __init__(self, conllu_file, tokenizer, max_length=256):
         self.tokenizer = tokenizer
         self.data = []
         
-        print(f"Loading dataset from {conllu_file}...")
+        logger.info(f"Loading dataset from {conllu_file}...")
         with open(conllu_file, "r", encoding="utf-8") as f:
             for sentence in parse_incr(f):
                 tokens = [token["form"] for token in sentence if isinstance(token["id"], int)]
@@ -30,7 +43,7 @@ class LemmatizationDataset(Dataset):
                     "attention_mask": input_enc.attention_mask.squeeze(),
                     "labels": target_enc.input_ids.squeeze()
                 })
-        print(f"Loaded {len(self.data)} sentences.")
+        logger.info(f"Loaded {len(self.data)} sentences.")
 
     def __len__(self):
         return len(self.data)
@@ -47,9 +60,8 @@ class SaveBestPerseusCallback(TrainerCallback):
     def on_evaluate(self, args, state, control, metrics=None, **kwargs):
         # In multi-dataset evaluation, metrics will have keys like 'eval_perseus_loss'
         current_loss = metrics.get("eval_perseus_loss")
-        
         if current_loss is not None and current_loss < self.best_loss:
-            print(f"\n✨ Perseus Loss improved from {self.best_loss:.4f} to {current_loss:.4f}")
+            logger.info(f"✨ Perseus Loss improved from {self.best_loss:.4f} to {current_loss:.4f}")
             self.best_loss = current_loss
             
             # Define best model path
@@ -58,7 +70,7 @@ class SaveBestPerseusCallback(TrainerCallback):
             # Save the model and tokenizer
             kwargs["model"].save_pretrained(best_model_path)
             self.tokenizer.save_pretrained(best_model_path)
-            print(f"💾 Best model saved to {best_model_path}")
+            logger.info(f"💾 Best model saved to {best_model_path}")
 
 def train():
     model_name = "google/byt5-base"
@@ -105,14 +117,14 @@ def train():
         callbacks=[SaveBestPerseusCallback(output_dir, tokenizer)]
     )
     
-    print("Saving strategy: Only when Perseus loss improves.")
+    logger.info("Saving strategy: Only when Perseus loss improves.")
     trainer.train()
     
     # Save final model for safety
     final_output = os.path.join(output_dir, "model_final")
     model.save_pretrained(final_output)
     tokenizer.save_pretrained(final_output)
-    print(f"✅ Training complete. Final model saved to {final_output}")
+    logger.info(f"✅ Training complete. Final model saved to {final_output}")
 
 if __name__ == "__main__":
     train()
