@@ -96,7 +96,7 @@ def train():
         per_device_train_batch_size=20, 
         per_device_eval_batch_size=20,
         gradient_accumulation_steps=2,
-        num_train_epochs=5,
+        num_train_epochs=20,
         eval_strategy="steps",
         eval_steps=250,
         save_strategy="no", # Disable default checkpointing
