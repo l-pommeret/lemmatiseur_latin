@@ -1,0 +1,8 @@
+saved_models/
+data/
+logs/
+__pycache__/
+*.pyc
+.nfs*
+.ipynb_checkpoints/
+master_test_blacklist.txt
