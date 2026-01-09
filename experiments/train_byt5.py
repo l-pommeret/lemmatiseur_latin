@@ -39,8 +39,9 @@ class LemmatizationDataset(Dataset):
         return self.data[idx]
 
 class SaveBestPerseusCallback(TrainerCallback):
-    def __init__(self, output_dir):
+    def __init__(self, output_dir, tokenizer):
         self.output_dir = output_dir
+        self.tokenizer = tokenizer
         self.best_loss = float("inf")
 
     def on_evaluate(self, args, state, control, metrics=None, **kwargs):
@@ -56,7 +57,7 @@ class SaveBestPerseusCallback(TrainerCallback):
             
             # Save the model and tokenizer
             kwargs["model"].save_pretrained(best_model_path)
-            kwargs["tokenizer"].save_pretrained(best_model_path)
+            self.tokenizer.save_pretrained(best_model_path)
             print(f"💾 Best model saved to {best_model_path}")
 
 def train():
@@ -101,7 +102,7 @@ def train():
         train_dataset=train_dataset,
         eval_dataset=eval_datasets,
         tokenizer=tokenizer,
-        callbacks=[SaveBestPerseusCallback(output_dir)]
+        callbacks=[SaveBestPerseusCallback(output_dir, tokenizer)]
     )
     
     print("Saving strategy: Only when Perseus loss improves.")
